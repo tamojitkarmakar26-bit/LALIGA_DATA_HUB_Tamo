@@ -1,0 +1,81 @@
+record_type,stat_category,rank,name,team,goals_scored,games,goals_per_match,yellow_cards,red_cards,assists,assists_per_match,completed_passes,total_passes,total_saves,save_rate_display,goals_conceded,shots_on_target,fouls
+player,goals,1,RAPHAEL DIAS BELLOLI,FC BARCELONA,12,7,1.71,,,,,,,,,,,
+player,goals,2,SERGIO CAMELLO,RAYO VALLECANO,7,7,1.00,,,,,,,,,,,
+player,goals,2,KYLIAN MBAPPÉ,REAL MADRID,7,7,1.00,,,,,,,,,,,
+player,goals,2,LAMINE YAMAL NASRAOUI EBANA,FC BARCELONA,7,7,1.00,,,,,,,,,,,
+player,goals,5,ROBERTO FERNÁNDEZ,RCD ESPANYOL DE BARCELONA,6,7,0.86,,,,,,,,,,,
+player,goals,5,YASSIR ZABIRI,R. RACING CLUB,6,7,0.86,,,,,,,,,,,
+player,goals,7,PIERRE-EMERICK AUBAMEYANG,RC DEPORTIVO,5,7,0.71,,,,,,,,,,,
+player,goals,7,FER NIÑO,ELCHE CF,5,7,0.71,,,,,,,,,,,
+player,goals,7,ANTE BUDIMIR,CA OSASUNA,5,7,0.71,,,,,,,,,,,
+player,goals,10,ÁLEX BAENA,ATLÉTICO DE MADRID,4,7,0.57,,,,,,,,,,,
+player,yellow_cards,1,PATHÉ CISS,RAYO VALLECANO,,,,4,,,,,,,,,,
+player,yellow_cards,1,YASSIR ZABIRI,R. RACING CLUB,,,,4,,,,,,,,,,
+player,yellow_cards,3,ANTONIO BLANCO,DEPORTIVO ALAVÉS,,,,3,,,,,,,,,,
+player,yellow_cards,3,ABDE REBBACH,DEPORTIVO ALAVÉS,,,,3,,,,,,,,,,
+player,yellow_cards,3,JON GURIDI,SEVILLA FC,,,,3,,,,,,,,,,
+player,yellow_cards,3,ISAAC ROMERO,SEVILLA FC,,,,3,,,,,,,,,,
+player,yellow_cards,3,JOHAN MOJICA,GETAFE CF,,,,3,,,,,,,,,,
+player,yellow_cards,3,CLEMENS RIEDEL,RCD ESPANYOL DE BARCELONA,,,,3,,,,,,,,,,
+player,yellow_cards,3,ÁLEX CALATRAVA TORRADO,RCD ESPANYOL DE BARCELONA,,,,3,,,,,,,,,,
+player,yellow_cards,3,LORENZO AMATUCCI,RC DEPORTIVO,,,,3,,,,,,,,,,
+player,red_cards,1,AROUNA SANGANTE,SEVILLA FC,,,,,1,,,,,,,,,
+player,red_cards,1,KIKE SALAS,SEVILLA FC,,,,,1,,,,,,,,,
+player,red_cards,1,JORGE DE FRUTOS,RAYO VALLECANO,,,,,1,,,,,,,,,
+player,red_cards,1,FRAN PÉREZ,RAYO VALLECANO,,,,,1,,,,,,,,,
+player,red_cards,1,FRANCISCO FEMENÍA FAR,GETAFE CF,,,,,1,,,,,,,,,
+player,red_cards,1,ZAID ROMERO,GETAFE CF,,,,,1,,,,,,,,,
+player,red_cards,1,MARIO MARTÍN,GETAFE CF,,,,,1,,,,,,,,,
+player,red_cards,1,OMAR EL HILALI,RCD ESPANYOL DE BARCELONA,,,,,1,,,,,,,,,
+player,red_cards,1,JOSÉ ÁNGEL ESMORIS TASENDE,RC DEPORTIVO,,,,,1,,,,,,,,,
+player,red_cards,1,ADRIÀ ALTI,RC DEPORTIVO,,,,,1,,,,,,,,,
+player,assists,1,JAVI HERNÁNDEZ,RCD ESPANYOL DE BARCELONA,,7,,,,4,0.57,,,,,,,
+player,assists,1,ANTHONY GORDON,FC BARCELONA,,6,,,,4,0.67,,,,,,,
+player,assists,1,LAMINE YAMAL NASRAOUI EBANA,FC BARCELONA,,7,,,,4,0.57,,,,,,,
+player,assists,4,MARIANO DÍAZ,DEPORTIVO ALAVÉS,,7,,,,3,0.43,,,,,,,
+player,assists,4,ÁNGEL PÉREZ,DEPORTIVO ALAVÉS,,7,,,,3,0.43,,,,,,,
+player,assists,4,UNAI LÓPEZ,RAYO VALLECANO,,7,,,,3,0.43,,,,,,,
+player,assists,4,ALBERTO MOLEIRO,VILLARREAL CF,,7,,,,3,0.43,,,,,,,
+player,assists,4,JOSÉ ANTONIO MOBENTE OLIVA,ELCHE CF,,7,,,,3,0.43,,,,,,,
+player,assists,4,JOB OCHIENG,REAL SOCIEDAD,,4,,,,3,0.75,,,,,,,
+player,assists,4,VINÍCIUS JOSÉ PAIXÃO DE OLIVEIRA JÚNIOR,REAL MADRID,,7,,,,3,0.43,,,,,,,
+player,completed_passes,1,RENATO PALMA VEIGA,VILLARREAL CF,,,,,,,,558,601,,,,,
+player,completed_passes,2,PAU CUBARSÍ,FC BARCELONA,,,,,,,,456,484,,,,,
+player,completed_passes,3,VÍCTOR CHUST,ELCHE CF,,,,,,,,437,483,,,,,
+player,completed_passes,4,DÁVID HANCKO,ATLÉTICO DE MADRID,,,,,,,,391,437,,,,,
+player,completed_passes,4,ERIC GARCÍA,FC BARCELONA,,,,,,,,393,437,,,,,
+player,completed_passes,6,PEDRO GONZÁLEZ LÓPEZ,FC BARCELONA,,,,,,,,391,423,,,,,
+player,completed_passes,7,ÁNGEL RECIO,MÁLAGA CF,,,,,,,,384,417,,,,,
+player,completed_passes,8,AYMERIC LAPORTE,ATHLETIC CLUB,,,,,,,,393,416,,,,,
+player,completed_passes,8,MIGUEL ROMÁN,CELTA,,,,,,,,367,416,,,,,
+player,completed_passes,10,PAPE GUEYE,VILLARREAL CF,,,,,,,,352,413,,,,,
+player,saves,1,ÁLVARO VALLES,REAL BETIS,,7,,,,,,,,31,4.43,,,
+player,saves,2,JULEN AGIRREZABALA,R. RACING CLUB,,7,,,,,,,,30,4.29,,,
+player,saves,3,ALFONSO HERRERO,MÁLAGA CF,,7,,,,,,,,28,4.00,,,
+player,saves,4,ANTONIO SIVERA,DEPORTIVO ALAVÉS,,7,,,,,,,,23,3.29,,,
+player,saves,4,DAVID SORIA,GETAFE CF,,7,,,,,,,,23,3.29,,,
+player,saves,4,LEO ROMÁN,RC DEPORTIVO,,7,,,,,,,,23,3.29,,,
+player,saves,4,ÁLEX REMIRO,REAL SOCIEDAD,,6,,,,,,,,23,3.83,,,
+player,saves,8,MARKO DMITROVIĆ,RCD ESPANYOL DE BARCELONA,,7,,,,,,,,22,3.14,,,
+player,saves,8,MATHEW RYAN,LEVANTE UD,,6,,,,,,,,22,3.67,,,
+player,saves,8,STOLE DIMITRIEVSKI,VALENCIA CF,,7,,,,,,,,22,3.14,,,
+team,team_summary,1,,MÁLAGA CF,3,,,18,0,,,,,,,12,14,90
+team,team_summary,2,,GETAFE CF,4,,,20,3,,,,,,,7,19,103
+team,team_summary,3,,VALENCIA CF,4,,,14,0,,,,,,,13,19,74
+team,team_summary,4,,CA OSASUNA,6,,,17,0,,,,,,,13,27,98
+team,team_summary,5,,ATHLETIC CLUB,7,,,11,1,,,,,,,6,27,69
+team,team_summary,6,,LEVANTE UD,8,,,6,0,,,,,,,12,22,60
+team,team_summary,7,,CELTA,8,,,11,1,,,,,,,6,26,75
+team,team_summary,8,,REAL BETIS,9,,,10,0,,,,,,,7,45,68
+team,team_summary,9,,REAL SOCIEDAD,9,,,14,2,,,,,,,13,36,87
+team,team_summary,10,,SEVILLA FC,10,,,19,2,,,,,,,9,29,101
+team,team_summary,11,,RCD ESPANYOL DE BARCELONA,10,,,20,1,,,,,,,10,27,120
+team,team_summary,12,,RC DEPORTIVO,10,,,11,2,,,,,,,8,27,87
+team,team_summary,13,,DEPORTIVO ALAVÉS,11,,,14,0,,,,,,,6,31,95
+team,team_summary,14,,RAYO VALLECANO,11,,,17,2,,,,,,,16,32,94
+team,team_summary,15,,R. RACING CLUB,11,,,18,1,,,,,,,21,28,100
+team,team_summary,16,,ELCHE CF,11,,,17,1,,,,,,,17,35,95
+team,team_summary,17,,VILLARREAL CF,13,,,12,0,,,,,,,12,46,75
+team,team_summary,18,,ATLÉTICO DE MADRID,16,,,12,1,,,,,,,7,45,87
+team,team_summary,19,,REAL MADRID,18,,,12,1,,,,,,,8,53,59
+team,team_summary,20,,FC BARCELONA,31,,,8,0,,,,,,,7,58,67

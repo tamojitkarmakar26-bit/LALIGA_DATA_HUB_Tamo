@@ -1,0 +1,18 @@
+<svg viewBox="90 -5 248 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Official LALIGA Red: #FF4B44 / #FE3B37 -->
+  <defs>
+    <filter id="laligaDropGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#FF4B44" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <!-- Left L Glyph -->
+  <path
+    fill="#FF4B44"
+    d="M162.8 0h56.87l-73.18 104.14H194l-73.9 37.67-14.88-18.96c-5.28-6.96-7.68-12.24-7.68-19.44 0-6.48 2.4-12.72 6.48-18.48Z"
+  />
+  <!-- Right L Glyph -->
+  <path
+    fill="#FF4B44"
+    d="M267.18 0h62.63L208.4 172.76h54.71l-84.94 43.19-18.24-23.27c-5.04-6.48-7.68-12.96-7.68-19.92 0-6 2.4-12.48 6.72-18.72Z"
+  />
+</svg>

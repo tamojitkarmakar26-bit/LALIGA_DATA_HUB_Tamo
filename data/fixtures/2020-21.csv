@@ -1,0 +1,381 @@
+date,time,matchday,home_team,away_team,city,stadium,status,result
+2020-09-12,7:30 PM,1,Eibar,Celta Vigo,Eibar,Estadio Municipal de Ipurúa,Played,0-0
+2020-09-12,10:00 PM,1,Granada CF,Athletic Club,Granada,Estadio Nuevo Los Cármenes,Played,2-0
+2020-09-13,12:30 AM,1,Cadiz,Osasuna,Cádiz,Estadio Ramón de Carranza,Played,0-2
+2020-09-13,5:30 PM,1,Alaves,Real Betis,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,0-1
+2020-09-13,7:30 PM,1,Valladolid,Real Sociedad,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2020-09-13,10:00 PM,1,Villarreal,Huesca,Villarreal,Estadio de la Cerámica,Played,1-1
+2020-09-14,12:30 AM,1,Valencia,Levante,Valencia,Estadio de Mestalla,Played,4-2
+2020-09-19,7:30 PM,2,Villarreal,Eibar,Villarreal,Estadio de la Cerámica,Played,2-1
+2020-09-19,10:00 PM,2,Getafe,Osasuna,Getafe,Coliseum Alfonso Pérez,Played,1-0
+2020-09-20,12:30 AM,2,Celta Vigo,Valencia,Vigo,Abanca-Balaídos,Played,2-1
+2020-09-20,7:30 PM,2,Huesca,Cadiz,Huesca,Estadio El Alcoraz,Played,0-2
+2020-09-20,10:00 PM,2,Real Betis,Valladolid,Sevilla,Estadio Benito Villamarín,Played,2-0
+2020-09-20,10:00 PM,2,Granada CF,Alaves,Granada,Estadio Nuevo Los Cármenes,Played,2-1
+2020-09-21,12:30 AM,2,Real Sociedad,Real Madrid,Donostia-San Sebastián,Reale Arena,Played,0-0
+2020-09-26,4:30 PM,3,Alaves,Getafe,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,0-0
+2020-09-26,7:30 PM,3,Valencia,Huesca,Valencia,Estadio de Mestalla,Played,1-1
+2020-09-26,10:00 PM,3,Elche,Real Sociedad,Elche,Estadio Manuel Martínez Valero,Played,0-3
+2020-09-27,12:30 AM,3,Real Betis,Real Madrid,Sevilla,Estadio Benito Villamarín,Played,2-3
+2020-09-27,3:30 PM,3,Osasuna,Levante,Iruñea,Estadio El Sadar,Played,1-3
+2020-09-27,5:30 PM,3,Eibar,Athletic Club,Eibar,Estadio Municipal de Ipurúa,Played,1-2
+2020-09-27,7:30 PM,3,Atletico Madrid,Granada CF,Madrid,Estadio Wanda Metropolitano,Played,6-1
+2020-09-27,10:00 PM,3,Valladolid,Celta Vigo,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2020-09-27,10:00 PM,3,Cadiz,Sevilla,Cádiz,Estadio Ramón de Carranza,Played,1-3
+2020-09-28,12:30 AM,3,Barcelona,Villarreal,Barcelona,Camp Nou,Played,4-0
+2020-09-29,10:30 PM,4,Real Sociedad,Valencia,Donostia-San Sebastián,Reale Arena,Played,0-1
+2020-09-30,1:00 AM,4,Getafe,Real Betis,Getafe,Coliseum Alfonso Pérez,Played,3-0
+2020-09-30,10:30 PM,4,Villarreal,Alaves,Villarreal,Estadio de la Cerámica,Played,3-1
+2020-09-30,10:30 PM,4,Huesca,Atletico Madrid,Huesca,Estadio El Alcoraz,Played,0-0
+2020-10-01,1:00 AM,4,Real Madrid,Valladolid,Madrid,Estadio Alfredo Di Stéfano,Played,1-0
+2020-10-01,1:00 AM,4,Eibar,Elche,Eibar,Estadio Municipal de Ipurúa,Played,0-1
+2020-10-01,10:30 PM,4,Athletic Club,Cadiz,Bilbao,San Mamés Barria,Played,0-1
+2020-10-01,10:30 PM,4,Sevilla,Levante,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2020-10-02,1:00 AM,4,Celta Vigo,Barcelona,Vigo,Abanca-Balaídos,Played,0-3
+2020-10-03,4:30 PM,5,Valladolid,Eibar,Valladolid,Estadio Municipal José Zorrilla,Played,1-2
+2020-10-03,7:30 PM,5,Atletico Madrid,Villarreal,Madrid,Estadio Wanda Metropolitano,Played,0-0
+2020-10-03,10:00 PM,5,Real Sociedad,Getafe,Donostia-San Sebastián,Reale Arena,Played,3-0
+2020-10-03,10:00 PM,5,Elche,Huesca,Elche,Estadio Manuel Martínez Valero,Played,0-0
+2020-10-04,12:30 AM,5,Valencia,Real Betis,Valencia,Estadio de Mestalla,Played,0-2
+2020-10-04,3:30 PM,5,Osasuna,Celta Vigo,Iruñea,Estadio El Sadar,Played,2-0
+2020-10-04,5:30 PM,5,Alaves,Athletic Club,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-0
+2020-10-04,7:30 PM,5,Levante,Real Madrid,Villarreal,Estadio de la Cerámica,Played,0-2
+2020-10-04,10:00 PM,5,Cadiz,Granada CF,Cádiz,Estadio Ramón de Carranza,Played,1-1
+2020-10-05,12:30 AM,5,Barcelona,Sevilla,Barcelona,Camp Nou,Played,1-1
+2020-10-17,4:30 PM,6,Granada CF,Sevilla,Granada,Estadio Nuevo Los Cármenes,Played,1-0
+2020-10-17,7:30 PM,6,Celta Vigo,Atletico Madrid,Vigo,Abanca-Balaídos,Played,0-2
+2020-10-17,10:00 PM,6,Real Madrid,Cadiz,Madrid,Estadio Alfredo Di Stéfano,Played,0-1
+2020-10-18,12:30 AM,6,Getafe,Barcelona,Getafe,Coliseum Alfonso Pérez,Played,1-0
+2020-10-18,3:30 PM,6,Eibar,Osasuna,Eibar,Estadio Municipal de Ipurúa,Played,0-0
+2020-10-18,5:30 PM,6,Athletic Club,Levante,Bilbao,San Mamés Barria,Played,2-0
+2020-10-18,7:30 PM,6,Villarreal,Valencia,Villarreal,Estadio de la Cerámica,Played,2-1
+2020-10-18,10:00 PM,6,Alaves,Elche,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,0-2
+2020-10-18,10:00 PM,6,Huesca,Valladolid,Huesca,Estadio El Alcoraz,Played,2-2
+2020-10-19,12:30 AM,6,Real Betis,Real Sociedad,Sevilla,Estadio Benito Villamarín,Played,0-3
+2020-10-24,12:30 AM,7,Elche,Valencia,Elche,Estadio Manuel Martínez Valero,Played,2-1
+2020-10-24,7:30 PM,7,Barcelona,Real Madrid,Barcelona,Camp Nou,Played,1-3
+2020-10-24,10:00 PM,7,Sevilla,Eibar,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,0-1
+2020-10-24,10:00 PM,7,Osasuna,Athletic Club,Iruñea,Estadio El Sadar,Played,1-0
+2020-10-25,12:30 AM,7,Atletico Madrid,Real Betis,Madrid,Estadio Wanda Metropolitano,Played,2-0
+2020-10-25,6:30 PM,7,Valladolid,Alaves,Valladolid,Estadio Municipal José Zorrilla,Played,0-2
+2020-10-25,8:30 PM,7,Cadiz,Villarreal,Cádiz,Estadio Ramón de Carranza,Played,0-0
+2020-10-25,11:00 PM,7,Getafe,Granada CF,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2020-10-26,1:30 AM,7,Real Sociedad,Huesca,Donostia-San Sebastián,Reale Arena,Played,4-1
+2020-10-27,1:30 AM,7,Levante,Celta Vigo,Villarreal,Estadio de la Cerámica,Played,1-1
+2020-10-31,1:30 AM,8,Eibar,Cadiz,Eibar,Estadio Municipal de Ipurúa,Played,0-2
+2020-10-31,6:30 PM,8,Real Madrid,Huesca,Madrid,Estadio Alfredo Di Stéfano,Played,4-1
+2020-10-31,8:45 PM,8,Athletic Club,Sevilla,Bilbao,San Mamés Barria,Played,2-1
+2020-10-31,11:00 PM,8,Osasuna,Atletico Madrid,Iruñea,Estadio El Sadar,Played,1-3
+2020-11-01,1:30 AM,8,Alaves,Barcelona,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-1
+2020-11-01,6:30 PM,8,Real Betis,Elche,Sevilla,Estadio Benito Villamarín,Played,3-1
+2020-11-01,8:30 PM,8,Celta Vigo,Real Sociedad,Vigo,Abanca-Balaídos,Played,1-4
+2020-11-01,11:00 PM,8,Granada CF,Levante,Granada,Estadio Nuevo Los Cármenes,Played,1-1
+2020-11-02,1:30 AM,8,Valencia,Getafe,Valencia,Estadio de Mestalla,Played,2-2
+2020-11-03,1:30 AM,8,Villarreal,Valladolid,Villarreal,Estadio de la Cerámica,Played,2-0
+2020-11-07,1:30 AM,9,Elche,Celta Vigo,Elche,Estadio Manuel Martínez Valero,Played,1-1
+2020-11-07,6:30 PM,9,Huesca,Eibar,Huesca,Estadio El Alcoraz,Played,1-1
+2020-11-07,8:45 PM,9,Barcelona,Real Betis,Barcelona,Camp Nou,Played,5-2
+2020-11-07,11:00 PM,9,Sevilla,Osasuna,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2020-11-08,1:30 AM,9,Atletico Madrid,Cadiz,Madrid,Estadio Wanda Metropolitano,Played,4-0
+2020-11-08,6:30 PM,9,Getafe,Villarreal,Getafe,Coliseum Alfonso Pérez,Played,1-3
+2020-11-08,8:45 PM,9,Real Sociedad,Granada CF,Donostia-San Sebastián,Reale Arena,Played,2-0
+2020-11-08,11:00 PM,9,Levante,Alaves,Valencia,Estadio Ciudad de Valencia,Played,1-1
+2020-11-08,11:00 PM,9,Valladolid,Athletic Club,Valladolid,Estadio Municipal José Zorrilla,Played,2-1
+2020-11-09,1:30 AM,9,Valencia,Real Madrid,Valencia,Estadio de Mestalla,Played,4-1
+2020-11-21,1:30 AM,10,Osasuna,Huesca,Iruñea,Estadio El Sadar,Played,1-1
+2020-11-21,6:30 PM,10,Levante,Elche,Valencia,Estadio Ciudad de Valencia,Played,1-1
+2020-11-21,8:45 PM,10,Villarreal,Real Madrid,Villarreal,Estadio de la Cerámica,Played,1-1
+2020-11-21,11:00 PM,10,Sevilla,Celta Vigo,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,4-2
+2020-11-22,1:30 AM,10,Atletico Madrid,Barcelona,Madrid,Estadio Wanda Metropolitano,Played,1-0
+2020-11-22,6:30 PM,10,Eibar,Getafe,Eibar,Estadio Municipal de Ipurúa,Played,0-0
+2020-11-22,8:45 PM,10,Cadiz,Real Sociedad,Cádiz,Estadio Ramón de Carranza,Played,0-1
+2020-11-22,11:00 PM,10,Granada CF,Valladolid,Granada,Estadio Nuevo Los Cármenes,Played,1-3
+2020-11-23,1:30 AM,10,Alaves,Valencia,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,2-2
+2020-11-24,1:30 AM,10,Athletic Club,Real Betis,Bilbao,San Mamés Barria,Played,4-0
+2020-11-28,1:30 AM,11,Valladolid,Levante,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2020-11-28,6:30 PM,11,Elche,Cadiz,Elche,Estadio Manuel Martínez Valero,Played,1-1
+2020-11-28,8:45 PM,11,Valencia,Atletico Madrid,Valencia,Estadio de Mestalla,Played,0-1
+2020-11-28,11:00 PM,11,Huesca,Sevilla,Huesca,Estadio El Alcoraz,Played,0-1
+2020-11-29,1:30 AM,11,Real Madrid,Alaves,Madrid,Estadio Alfredo Di Stéfano,Played,1-2
+2020-11-29,6:30 PM,11,Barcelona,Osasuna,Barcelona,Camp Nou,Played,4-0
+2020-11-29,8:45 PM,11,Getafe,Athletic Club,Getafe,Coliseum Alfonso Pérez,Played,1-1
+2020-11-29,11:00 PM,11,Celta Vigo,Granada CF,Vigo,Abanca-Balaídos,Played,3-1
+2020-11-30,1:30 AM,11,Real Sociedad,Villarreal,Donostia-San Sebastián,Reale Arena,Played,1-1
+2020-12-01,1:30 AM,11,Real Betis,Eibar,Sevilla,Estadio Benito Villamarín,Played,0-2
+2020-12-05,1:30 AM,12,Athletic Club,Celta Vigo,Bilbao,San Mamés Barria,Played,0-2
+2020-12-05,6:30 PM,12,Levante,Getafe,Valencia,Estadio Ciudad de Valencia,Played,3-0
+2020-12-05,8:45 PM,12,Sevilla,Real Madrid,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,0-1
+2020-12-05,11:00 PM,12,Atletico Madrid,Valladolid,Madrid,Estadio Wanda Metropolitano,Played,2-0
+2020-12-06,1:30 AM,12,Cadiz,Barcelona,Cádiz,Estadio Ramón de Carranza,Played,2-1
+2020-12-06,6:30 PM,12,Granada CF,Huesca,Granada,Estadio Nuevo Los Cármenes,Played,3-3
+2020-12-06,8:45 PM,12,Osasuna,Real Betis,Iruñea,Estadio El Sadar,Played,0-2
+2020-12-06,11:00 PM,12,Villarreal,Elche,Villarreal,Estadio de la Cerámica,Played,0-0
+2020-12-07,1:30 AM,12,Alaves,Real Sociedad,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,0-0
+2020-12-08,1:30 AM,12,Eibar,Valencia,Eibar,Estadio Municipal de Ipurúa,Played,0-0
+2020-12-12,1:30 AM,13,Valladolid,Osasuna,Valladolid,Estadio Municipal José Zorrilla,Played,3-2
+2020-12-12,6:30 PM,13,Valencia,Athletic Club,Valencia,Estadio de Mestalla,Played,2-2
+2020-12-12,8:45 PM,13,Getafe,Sevilla,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2020-12-12,11:00 PM,13,Huesca,Alaves,Huesca,Estadio El Alcoraz,Played,1-0
+2020-12-13,1:30 AM,13,Real Madrid,Atletico Madrid,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2020-12-13,6:30 PM,13,Real Sociedad,Eibar,Donostia-San Sebastián,Reale Arena,Played,1-1
+2020-12-13,8:45 PM,13,Real Betis,Villarreal,Sevilla,Estadio Benito Villamarín,Played,1-1
+2020-12-13,11:00 PM,13,Elche,Granada CF,Elche,Estadio Manuel Martínez Valero,Played,0-1
+2020-12-14,1:30 AM,13,Barcelona,Levante,Barcelona,Camp Nou,Played,1-0
+2020-12-15,1:30 AM,13,Celta Vigo,Cadiz,Vigo,Abanca-Balaídos,Played,4-0
+2020-12-16,2:30 AM,19,Real Madrid,Athletic Club,Madrid,Estadio Alfredo Di Stéfano,Played,3-1
+2020-12-17,1:30 AM,19,Barcelona,Real Sociedad,Barcelona,Camp Nou,Played,2-1
+2020-12-19,1:30 AM,14,Athletic Club,Huesca,Bilbao,San Mamés Barria,Played,2-0
+2020-12-19,6:30 PM,14,Atletico Madrid,Elche,Madrid,Estadio Wanda Metropolitano,Played,3-1
+2020-12-19,8:45 PM,14,Barcelona,Valencia,Barcelona,Camp Nou,Played,2-2
+2020-12-19,11:00 PM,14,Levante,Real Sociedad,Valencia,Estadio Ciudad de Valencia,Played,2-1
+2020-12-19,11:00 PM,14,Osasuna,Villarreal,Iruñea,Estadio El Sadar,Played,1-3
+2020-12-20,1:30 AM,14,Sevilla,Valladolid,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-1
+2020-12-20,6:30 PM,14,Celta Vigo,Alaves,Vigo,Abanca-Balaídos,Played,2-0
+2020-12-20,8:45 PM,14,Granada CF,Real Betis,Granada,Estadio Nuevo Los Cármenes,Played,2-0
+2020-12-20,11:00 PM,14,Cadiz,Getafe,Cádiz,Estadio Ramón de Carranza,Played,0-2
+2020-12-21,1:30 AM,14,Eibar,Real Madrid,Eibar,Estadio Municipal de Ipurúa,Played,1-3
+2020-12-22,10:00 PM,15,Valencia,Sevilla,Valencia,Estadio de Mestalla,Played,0-1
+2020-12-22,10:00 PM,15,Elche,Osasuna,Elche,Estadio Manuel Martínez Valero,Played,2-2
+2020-12-23,12:15 AM,15,Real Sociedad,Atletico Madrid,Donostia-San Sebastián,Reale Arena,Played,0-2
+2020-12-23,12:15 AM,15,Huesca,Levante,Huesca,Estadio El Alcoraz,Played,1-1
+2020-12-23,2:30 AM,15,Villarreal,Athletic Club,Villarreal,Estadio de la Cerámica,Played,1-1
+2020-12-23,2:30 AM,15,Valladolid,Barcelona,Valladolid,Estadio Municipal José Zorrilla,Played,0-3
+2020-12-23,10:00 PM,15,Getafe,Celta Vigo,Getafe,Coliseum Alfonso Pérez,Played,1-1
+2020-12-24,12:15 AM,15,Real Madrid,Granada CF,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2020-12-24,2:30 AM,15,Alaves,Eibar,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,2-1
+2020-12-24,2:30 AM,15,Real Betis,Cadiz,Sevilla,Estadio Benito Villamarín,Played,1-0
+2020-12-29,9:30 PM,16,Sevilla,Villarreal,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,2-0
+2020-12-29,11:45 PM,16,Barcelona,Eibar,Barcelona,Camp Nou,Played,1-1
+2020-12-30,2:00 AM,16,Levante,Real Betis,Valencia,Estadio Ciudad de Valencia,Played,4-3
+2020-12-30,2:00 AM,16,Cadiz,Valladolid,Cádiz,Estadio Ramón de Carranza,Played,0-0
+2020-12-30,9:30 PM,16,Granada CF,Valencia,Granada,Estadio Nuevo Los Cármenes,Played,2-1
+2020-12-30,11:45 PM,16,Atletico Madrid,Getafe,Madrid,Estadio Wanda Metropolitano,Played,1-0
+2020-12-30,11:45 PM,16,Celta Vigo,Huesca,Vigo,Abanca-Balaídos,Played,2-1
+2020-12-31,2:00 AM,16,Elche,Real Madrid,Elche,Estadio Manuel Martínez Valero,Played,1-1
+2020-12-31,6:30 PM,16,Athletic Club,Real Sociedad,Bilbao,San Mamés Barria,Played,0-1
+2020-12-31,8:45 PM,16,Osasuna,Alaves,Iruñea,Estadio El Sadar,Played,1-1
+2021-01-02,6:30 PM,17,Villarreal,Levante,Villarreal,Estadio de la Cerámica,Played,2-1
+2021-01-02,8:45 PM,17,Real Betis,Sevilla,Sevilla,Estadio Benito Villamarín,Played,1-1
+2021-01-02,11:00 PM,17,Getafe,Valladolid,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2021-01-03,1:30 AM,17,Real Madrid,Celta Vigo,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2021-01-03,6:30 PM,17,Athletic Club,Elche,Bilbao,San Mamés Barria,Played,1-0
+2021-01-03,8:45 PM,17,Alaves,Atletico Madrid,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-2
+2021-01-03,11:00 PM,17,Eibar,Granada CF,Eibar,Estadio Municipal de Ipurúa,Played,2-0
+2021-01-03,11:00 PM,17,Real Sociedad,Osasuna,Donostia-San Sebastián,Reale Arena,Played,1-1
+2021-01-04,1:30 AM,17,Huesca,Barcelona,Huesca,Estadio El Alcoraz,Played,0-1
+2021-01-05,1:30 AM,17,Valencia,Cadiz,Valencia,Estadio de Mestalla,Played,1-1
+2021-01-07,1:30 AM,2,Athletic Club,Barcelona,Bilbao,San Mamés Barria,Played,2-3
+2021-01-09,1:30 AM,18,Celta Vigo,Villarreal,Vigo,Abanca-Balaídos,Played,0-4
+2021-01-09,6:30 PM,18,Sevilla,Real Sociedad,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,3-2
+2021-01-09,11:00 PM,18,Granada CF,Barcelona,Granada,Estadio Nuevo Los Cármenes,Played,0-4
+2021-01-10,1:30 AM,18,Osasuna,Real Madrid,Iruñea,Estadio El Sadar,Played,0-0
+2021-01-10,6:30 PM,18,Levante,Eibar,Valencia,Estadio Ciudad de Valencia,Played,2-1
+2021-01-10,8:45 PM,18,Cadiz,Alaves,Cádiz,Estadio Ramón de Carranza,Played,3-1
+2021-01-11,1:30 AM,18,Valladolid,Valencia,Valladolid,Estadio Municipal José Zorrilla,Played,0-1
+2021-01-11,11:30 PM,18,Elche,Getafe,Elche,Estadio Manuel Martínez Valero,Played,1-3
+2021-01-12,1:30 AM,18,Huesca,Real Betis,Huesca,Estadio El Alcoraz,Played,0-2
+2021-01-12,11:30 PM,4,Granada CF,Osasuna,Granada,Estadio Nuevo Los Cármenes,Played,2-0
+2021-01-13,2:00 AM,1,Atletico Madrid,Sevilla,Madrid,Estadio Wanda Metropolitano,Played,2-0
+2021-01-19,11:30 PM,19,Valladolid,Elche,Valladolid,Estadio Municipal José Zorrilla,Played,2-2
+2021-01-19,11:30 PM,19,Cadiz,Levante,Cádiz,Estadio Ramón de Carranza,Played,2-2
+2021-01-20,2:00 AM,19,Alaves,Sevilla,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-2
+2021-01-20,11:30 PM,19,Getafe,Huesca,Getafe,Coliseum Alfonso Pérez,Played,1-0
+2021-01-21,1:30 AM,19,Real Betis,Celta Vigo,Sevilla,Estadio Benito Villamarín,Played,2-1
+2021-01-21,2:00 AM,19,Villarreal,Granada CF,Villarreal,Estadio de la Cerámica,Played,2-2
+2021-01-21,11:30 PM,19,Valencia,Osasuna,Valencia,Estadio de Mestalla,Played,1-1
+2021-01-22,2:00 AM,19,Eibar,Atletico Madrid,Eibar,Estadio Municipal de Ipurúa,Played,1-2
+2021-01-23,1:30 AM,20,Levante,Valladolid,Valencia,Estadio Ciudad de Valencia,Played,2-2
+2021-01-23,6:30 PM,20,Huesca,Villarreal,Huesca,Estadio El Alcoraz,Played,0-0
+2021-01-23,8:45 PM,20,Sevilla,Cadiz,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,3-0
+2021-01-23,11:00 PM,20,Real Sociedad,Real Betis,Donostia-San Sebastián,Reale Arena,Played,2-2
+2021-01-24,1:30 AM,20,Alaves,Real Madrid,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-4
+2021-01-24,6:30 PM,20,Osasuna,Granada CF,Iruñea,Estadio El Sadar,Played,3-1
+2021-01-24,8:45 PM,20,Elche,Barcelona,Elche,Estadio Manuel Martínez Valero,Played,0-2
+2021-01-24,11:00 PM,20,Celta Vigo,Eibar,Vigo,Abanca-Balaídos,Played,1-1
+2021-01-25,1:30 AM,20,Atletico Madrid,Valencia,Madrid,Estadio Wanda Metropolitano,Played,3-1
+2021-01-26,1:30 AM,20,Athletic Club,Getafe,Bilbao,San Mamés Barria,Played,5-1
+2021-01-30,1:30 AM,21,Valladolid,Huesca,Valladolid,Estadio Municipal José Zorrilla,Played,1-3
+2021-01-30,6:30 PM,21,Eibar,Sevilla,Eibar,Estadio Municipal de Ipurúa,Played,0-2
+2021-01-30,8:45 PM,21,Real Madrid,Levante,Madrid,Estadio Alfredo Di Stéfano,Played,1-2
+2021-01-30,11:00 PM,21,Valencia,Elche,Valencia,Estadio de Mestalla,Played,1-0
+2021-01-31,1:30 AM,21,Villarreal,Real Sociedad,Villarreal,Estadio de la Cerámica,Played,1-1
+2021-01-31,6:30 PM,21,Getafe,Alaves,Getafe,Coliseum Alfonso Pérez,Played,0-0
+2021-01-31,8:45 PM,21,Cadiz,Atletico Madrid,Cádiz,Estadio Ramón de Carranza,Played,2-4
+2021-01-31,11:00 PM,21,Granada CF,Celta Vigo,Granada,Estadio Nuevo Los Cármenes,Played,0-0
+2021-02-01,1:30 AM,21,Barcelona,Athletic Club,Barcelona,Camp Nou,Played,2-1
+2021-02-02,1:30 AM,21,Real Betis,Osasuna,Sevilla,Estadio Benito Villamarín,Played,1-0
+2021-02-06,1:30 AM,22,Alaves,Valladolid,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-0
+2021-02-06,6:30 PM,22,Levante,Granada CF,Valencia,Estadio Ciudad de Valencia,Played,2-2
+2021-02-06,8:45 PM,22,Huesca,Real Madrid,Huesca,Estadio El Alcoraz,Played,1-2
+2021-02-06,11:00 PM,22,Elche,Villarreal,Elche,Estadio Manuel Martínez Valero,Played,2-2
+2021-02-07,1:30 AM,22,Sevilla,Getafe,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,3-0
+2021-02-07,6:30 PM,22,Real Sociedad,Cadiz,Donostia-San Sebastián,Reale Arena,Played,4-1
+2021-02-07,8:45 PM,22,Athletic Club,Valencia,Bilbao,San Mamés Barria,Played,1-1
+2021-02-07,11:00 PM,22,Osasuna,Eibar,Iruñea,Estadio El Sadar,Played,2-1
+2021-02-08,1:30 AM,22,Real Betis,Barcelona,Sevilla,Estadio Benito Villamarín,Played,2-3
+2021-02-09,1:30 AM,22,Atletico Madrid,Celta Vigo,Madrid,Estadio Wanda Metropolitano,Played,2-2
+2021-02-10,1:30 AM,1,Real Madrid,Getafe,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2021-02-13,1:30 AM,23,Celta Vigo,Elche,Vigo,Abanca-Balaídos,Played,3-1
+2021-02-13,6:30 PM,23,Granada CF,Atletico Madrid,Granada,Estadio Nuevo Los Cármenes,Played,1-2
+2021-02-13,8:45 PM,23,Sevilla,Huesca,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2021-02-13,11:00 PM,23,Eibar,Valladolid,Eibar,Estadio Municipal de Ipurúa,Played,1-1
+2021-02-14,1:30 AM,23,Barcelona,Alaves,Barcelona,Camp Nou,Played,5-1
+2021-02-14,6:30 PM,23,Getafe,Real Sociedad,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2021-02-14,8:45 PM,23,Real Madrid,Valencia,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2021-02-14,11:00 PM,23,Levante,Osasuna,Valencia,Estadio Ciudad de Valencia,Played,0-1
+2021-02-15,1:30 AM,23,Villarreal,Real Betis,Villarreal,Estadio de la Cerámica,Played,1-2
+2021-02-16,1:30 AM,23,Cadiz,Athletic Club,Cádiz,Estadio Ramón de Carranza,Played,0-4
+2021-02-17,11:30 PM,2,Levante,Atletico Madrid,Valencia,Estadio Ciudad de Valencia,Played,1-1
+2021-02-20,1:30 AM,24,Real Betis,Getafe,Sevilla,Estadio Benito Villamarín,Played,1-0
+2021-02-20,6:30 PM,24,Elche,Eibar,Elche,Estadio Manuel Martínez Valero,Played,1-0
+2021-02-20,8:45 PM,24,Atletico Madrid,Levante,Madrid,Estadio Wanda Metropolitano,Played,0-2
+2021-02-20,11:00 PM,24,Valencia,Celta Vigo,Valencia,Estadio de Mestalla,Played,2-0
+2021-02-21,1:30 AM,24,Valladolid,Real Madrid,Valladolid,Estadio Municipal José Zorrilla,Played,0-1
+2021-02-21,6:30 PM,24,Barcelona,Cadiz,Barcelona,Camp Nou,Played,1-1
+2021-02-21,8:45 PM,24,Real Sociedad,Alaves,Donostia-San Sebastián,Reale Arena,Played,4-0
+2021-02-21,11:00 PM,24,Huesca,Granada CF,Huesca,Estadio El Alcoraz,Played,3-2
+2021-02-22,1:30 AM,24,Athletic Club,Villarreal,Bilbao,San Mamés Barria,Played,1-1
+2021-02-23,1:30 AM,24,Osasuna,Sevilla,Iruñea,Estadio El Sadar,Played,0-2
+2021-02-24,11:30 PM,1,Barcelona,Elche,Barcelona,Camp Nou,Played,3-0
+2021-02-27,1:30 AM,25,Levante,Athletic Club,Valencia,Estadio Ciudad de Valencia,Played,1-1
+2021-02-27,6:30 PM,25,Eibar,Huesca,Eibar,Estadio Municipal de Ipurúa,Played,1-1
+2021-02-27,8:45 PM,25,Sevilla,Barcelona,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,0-2
+2021-02-27,11:00 PM,25,Alaves,Osasuna,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,0-1
+2021-02-28,1:30 AM,25,Getafe,Valencia,Getafe,Coliseum Alfonso Pérez,Played,3-0
+2021-02-28,6:30 PM,25,Celta Vigo,Valladolid,Vigo,Abanca-Balaídos,Played,1-1
+2021-02-28,8:45 PM,25,Cadiz,Real Betis,Cádiz,Estadio Ramón de Carranza,Played,0-1
+2021-02-28,11:00 PM,25,Granada CF,Elche,Granada,Estadio Nuevo Los Cármenes,Played,2-1
+2021-03-01,1:30 AM,25,Villarreal,Atletico Madrid,Villarreal,Estadio de la Cerámica,Played,0-2
+2021-03-02,1:30 AM,25,Real Madrid,Real Sociedad,Madrid,Estadio Alfredo Di Stéfano,Played,1-1
+2021-03-06,1:30 AM,26,Valencia,Villarreal,Valencia,Estadio de Mestalla,Played,2-1
+2021-03-06,6:30 PM,26,Valladolid,Getafe,Valladolid,Estadio Municipal José Zorrilla,Played,2-1
+2021-03-06,8:45 PM,26,Elche,Sevilla,Elche,Estadio Manuel Martínez Valero,Played,2-1
+2021-03-06,11:00 PM,26,Cadiz,Eibar,Cádiz,Estadio Ramón de Carranza,Played,1-0
+2021-03-07,1:30 AM,26,Osasuna,Barcelona,Iruñea,Estadio El Sadar,Played,0-2
+2021-03-07,6:30 PM,26,Huesca,Celta Vigo,Huesca,Estadio El Alcoraz,Played,3-4
+2021-03-07,8:45 PM,26,Atletico Madrid,Real Madrid,Madrid,Estadio Wanda Metropolitano,Played,1-1
+2021-03-07,11:00 PM,26,Real Sociedad,Levante,Donostia-San Sebastián,Reale Arena,Played,1-0
+2021-03-08,1:30 AM,26,Athletic Club,Granada CF,Bilbao,San Mamés Barria,Played,2-1
+2021-03-09,1:30 AM,26,Real Betis,Alaves,Sevilla,Estadio Benito Villamarín,Played,3-2
+2021-03-10,11:30 PM,18,Atletico Madrid,Athletic Club,Madrid,Estadio Wanda Metropolitano,Played,2-1
+2021-03-13,1:30 AM,27,Levante,Valencia,Valencia,Estadio Ciudad de Valencia,Played,1-0
+2021-03-13,6:30 PM,27,Alaves,Cadiz,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-1
+2021-03-13,8:45 PM,27,Real Madrid,Elche,Madrid,Estadio Alfredo Di Stéfano,Played,2-1
+2021-03-13,11:00 PM,27,Osasuna,Valladolid,Iruñea,Estadio El Sadar,Played,0-0
+2021-03-14,1:30 AM,27,Getafe,Atletico Madrid,Getafe,Coliseum Alfonso Pérez,Played,0-0
+2021-03-14,6:30 PM,27,Celta Vigo,Athletic Club,Vigo,Abanca-Balaídos,Played,0-0
+2021-03-14,8:45 PM,27,Granada CF,Real Sociedad,Granada,Estadio Nuevo Los Cármenes,Played,1-0
+2021-03-14,11:00 PM,27,Eibar,Villarreal,Eibar,Estadio Municipal de Ipurúa,Played,1-3
+2021-03-15,1:30 AM,27,Sevilla,Real Betis,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2021-03-16,1:30 AM,27,Barcelona,Huesca,Barcelona,Camp Nou,Played,4-1
+2021-03-17,11:30 PM,2,Sevilla,Elche,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,2-0
+2021-03-20,1:30 AM,28,Real Betis,Levante,Sevilla,Estadio Benito Villamarín,Played,2-0
+2021-03-20,6:30 PM,28,Athletic Club,Eibar,Bilbao,San Mamés Barria,Played,1-1
+2021-03-20,8:45 PM,28,Celta Vigo,Real Madrid,Vigo,Abanca-Balaídos,Played,1-3
+2021-03-20,11:00 PM,28,Huesca,Osasuna,Huesca,Estadio El Alcoraz,Played,0-0
+2021-03-21,1:30 AM,28,Valladolid,Sevilla,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2021-03-21,6:30 PM,28,Getafe,Elche,Getafe,Coliseum Alfonso Pérez,Played,1-1
+2021-03-21,8:45 PM,28,Valencia,Granada CF,Valencia,Estadio de Mestalla,Played,2-1
+2021-03-21,8:45 PM,28,Villarreal,Cadiz,Villarreal,Estadio de la Cerámica,Played,2-1
+2021-03-21,11:00 PM,28,Atletico Madrid,Alaves,Madrid,Estadio Wanda Metropolitano,Played,1-0
+2021-03-22,1:30 AM,28,Real Sociedad,Barcelona,Donostia-San Sebastián,Reale Arena,Played,1-6
+2021-04-03,12:30 AM,29,Levante,Huesca,Valencia,Estadio Ciudad de Valencia,Played,0-2
+2021-04-03,5:30 PM,29,Granada CF,Villarreal,Granada,Estadio Nuevo Los Cármenes,Played,0-3
+2021-04-03,7:45 PM,29,Real Madrid,Eibar,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2021-04-03,10:00 PM,29,Osasuna,Getafe,Iruñea,Estadio El Sadar,Played,0-0
+2021-04-04,5:30 PM,29,Alaves,Celta Vigo,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-3
+2021-04-04,7:45 PM,29,Elche,Real Betis,Elche,Estadio Manuel Martínez Valero,Played,1-1
+2021-04-04,10:00 PM,29,Cadiz,Valencia,Cádiz,Estadio Ramón de Carranza,Played,2-1
+2021-04-05,12:30 AM,29,Sevilla,Atletico Madrid,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2021-04-06,12:30 AM,29,Barcelona,Valladolid,Barcelona,Camp Nou,Played,1-0
+2021-04-08,12:30 AM,29,Real Sociedad,Athletic Club,Donostia-San Sebastián,Reale Arena,Played,1-1
+2021-04-10,12:30 AM,30,Huesca,Elche,Huesca,Estadio El Alcoraz,Played,3-1
+2021-04-10,5:30 PM,30,Getafe,Cadiz,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2021-04-10,7:45 PM,30,Athletic Club,Alaves,Bilbao,San Mamés Barria,Played,0-0
+2021-04-10,10:00 PM,30,Eibar,Levante,Eibar,Estadio Municipal de Ipurúa,Played,0-1
+2021-04-11,12:30 AM,30,Real Madrid,Barcelona,Madrid,Estadio Alfredo Di Stéfano,Played,2-1
+2021-04-11,5:30 PM,30,Villarreal,Osasuna,Villarreal,Estadio de la Cerámica,Played,1-2
+2021-04-11,7:45 PM,30,Valencia,Real Sociedad,Valencia,Estadio de Mestalla,Played,2-2
+2021-04-11,10:00 PM,30,Valladolid,Granada CF,Valladolid,Estadio Municipal José Zorrilla,Played,1-2
+2021-04-12,12:30 AM,30,Real Betis,Atletico Madrid,Sevilla,Estadio Benito Villamarín,Played,1-1
+2021-04-13,12:30 AM,30,Celta Vigo,Sevilla,Vigo,Abanca-Balaídos,Played,3-4
+2021-04-18,5:30 PM,33,Real Sociedad,Sevilla,Donostia-San Sebastián,Reale Arena,Played,1-2
+2021-04-18,5:30 PM,33,Osasuna,Elche,Iruñea,Estadio El Sadar,Played,2-0
+2021-04-18,7:45 PM,33,Atletico Madrid,Eibar,Madrid,Estadio Wanda Metropolitano,Played,5-0
+2021-04-18,7:45 PM,33,Alaves,Huesca,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,1-0
+2021-04-18,10:00 PM,33,Real Betis,Valencia,Sevilla,Estadio Benito Villamarín,Played,2-2
+2021-04-18,10:00 PM,33,Cadiz,Celta Vigo,Cádiz,Estadio Ramón de Carranza,Played,0-0
+2021-04-19,12:30 AM,33,Levante,Villarreal,Valencia,Estadio Ciudad de Valencia,Played,1-5
+2021-04-19,12:30 AM,33,Getafe,Real Madrid,Getafe,Coliseum Alfonso Pérez,Played,0-0
+2021-04-21,10:30 PM,31,Levante,Sevilla,Valencia,Estadio Ciudad de Valencia,Played,0-1
+2021-04-21,10:30 PM,31,Osasuna,Valencia,Iruñea,Estadio El Sadar,Played,3-1
+2021-04-21,11:30 PM,31,Real Betis,Athletic Club,Sevilla,Estadio Benito Villamarín,Played,0-0
+2021-04-22,12:30 AM,31,Alaves,Villarreal,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,2-1
+2021-04-22,12:30 AM,31,Elche,Valladolid,Elche,Estadio Manuel Martínez Valero,Played,1-1
+2021-04-22,1:30 AM,31,Cadiz,Real Madrid,Cádiz,Estadio Ramón de Carranza,Played,0-3
+2021-04-22,10:30 PM,31,Atletico Madrid,Huesca,Madrid,Estadio Wanda Metropolitano,Played,2-0
+2021-04-23,12:30 AM,31,Real Sociedad,Celta Vigo,Donostia-San Sebastián,Reale Arena,Played,2-1
+2021-04-23,12:30 AM,31,Granada CF,Eibar,Granada,Estadio Nuevo Los Cármenes,Played,4-1
+2021-04-23,1:30 AM,31,Barcelona,Getafe,Barcelona,Camp Nou,Played,5-2
+2021-04-24,5:30 PM,32,Elche,Levante,Elche,Estadio Manuel Martínez Valero,Played,1-0
+2021-04-24,7:45 PM,32,Valladolid,Cadiz,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2021-04-24,10:00 PM,32,Valencia,Alaves,Valencia,Estadio de Mestalla,Played,1-1
+2021-04-25,12:30 AM,32,Real Madrid,Real Betis,Madrid,Estadio Alfredo Di Stéfano,Played,0-0
+2021-04-25,5:30 PM,32,Huesca,Getafe,Huesca,Estadio El Alcoraz,Played,0-2
+2021-04-25,7:45 PM,32,Villarreal,Barcelona,Villarreal,Estadio de la Cerámica,Played,1-2
+2021-04-25,10:00 PM,32,Sevilla,Granada CF,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,2-1
+2021-04-25,10:00 PM,32,Celta Vigo,Osasuna,Vigo,Abanca-Balaídos,Played,2-1
+2021-04-26,12:30 AM,32,Athletic Club,Atletico Madrid,Bilbao,San Mamés Barria,Played,2-1
+2021-04-27,12:30 AM,32,Eibar,Real Sociedad,Eibar,Estadio Municipal de Ipurúa,Played,0-1
+2021-04-28,10:30 PM,33,Athletic Club,Valladolid,Bilbao,San Mamés Barria,Played,2-2
+2021-04-29,10:30 PM,33,Barcelona,Granada CF,Barcelona,Camp Nou,Played,1-2
+2021-05-01,12:30 AM,34,Celta Vigo,Levante,Vigo,Abanca-Balaídos,Played,2-0
+2021-05-01,5:30 PM,34,Eibar,Alaves,Eibar,Estadio Municipal de Ipurúa,Played,3-0
+2021-05-01,7:45 PM,34,Elche,Atletico Madrid,Elche,Estadio Manuel Martínez Valero,Played,0-1
+2021-05-01,10:00 PM,34,Huesca,Real Sociedad,Huesca,Estadio El Alcoraz,Played,1-0
+2021-05-02,12:30 AM,34,Real Madrid,Osasuna,Madrid,Estadio Alfredo Di Stéfano,Played,2-0
+2021-05-02,5:30 PM,34,Valladolid,Real Betis,Valladolid,Estadio Municipal José Zorrilla,Played,1-1
+2021-05-02,7:45 PM,34,Villarreal,Getafe,Villarreal,Estadio de la Cerámica,Played,1-0
+2021-05-02,10:00 PM,34,Granada CF,Cadiz,Granada,Estadio Nuevo Los Cármenes,Played,0-1
+2021-05-03,12:30 AM,34,Valencia,Barcelona,Valencia,Estadio de Mestalla,Played,2-3
+2021-05-04,12:30 AM,34,Sevilla,Athletic Club,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,0-1
+2021-05-08,12:30 AM,35,Real Sociedad,Elche,Donostia-San Sebastián,Reale Arena,Played,2-0
+2021-05-08,5:30 PM,35,Alaves,Levante,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,2-2
+2021-05-08,7:45 PM,35,Barcelona,Atletico Madrid,Barcelona,Camp Nou,Played,0-0
+2021-05-08,10:00 PM,35,Cadiz,Huesca,Cádiz,Estadio Ramón de Carranza,Played,2-1
+2021-05-09,12:30 AM,35,Athletic Club,Osasuna,Bilbao,San Mamés Barria,Played,2-2
+2021-05-09,5:30 PM,35,Getafe,Eibar,Getafe,Coliseum Alfonso Pérez,Played,0-1
+2021-05-09,7:45 PM,35,Valencia,Valladolid,Valencia,Estadio de Mestalla,Played,3-0
+2021-05-09,10:00 PM,35,Villarreal,Celta Vigo,Villarreal,Estadio de la Cerámica,Played,2-4
+2021-05-10,12:30 AM,35,Real Madrid,Sevilla,Madrid,Estadio Alfredo Di Stéfano,Played,2-2
+2021-05-11,12:30 AM,35,Real Betis,Granada CF,Sevilla,Estadio Benito Villamarín,Played,2-1
+2021-05-11,10:30 PM,36,Osasuna,Cadiz,Iruñea,Estadio El Sadar,Played,3-2
+2021-05-11,11:30 PM,36,Elche,Alaves,Elche,Estadio Manuel Martínez Valero,Played,0-2
+2021-05-12,1:30 AM,36,Levante,Barcelona,Valencia,Estadio Ciudad de Valencia,Played,3-3
+2021-05-12,10:30 PM,36,Sevilla,Valencia,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0
+2021-05-12,11:30 PM,36,Celta Vigo,Getafe,Vigo,Abanca-Balaídos,Played,1-0
+2021-05-12,11:30 PM,36,Huesca,Athletic Club,Huesca,Estadio El Alcoraz,Played,1-0
+2021-05-13,1:30 AM,36,Atletico Madrid,Real Sociedad,Madrid,Estadio Wanda Metropolitano,Played,2-1
+2021-05-13,10:30 PM,36,Valladolid,Villarreal,Valladolid,Estadio Municipal José Zorrilla,Played,0-2
+2021-05-13,11:30 PM,36,Eibar,Real Betis,Eibar,Estadio Municipal de Ipurúa,Played,1-1
+2021-05-14,1:30 AM,36,Granada CF,Real Madrid,Granada,Estadio Nuevo Los Cármenes,Played,1-4
+2021-05-16,10:00 PM,37,Barcelona,Celta Vigo,Barcelona,Camp Nou,Played,1-2
+2021-05-16,10:00 PM,37,Atletico Madrid,Osasuna,Madrid,Estadio Wanda Metropolitano,Played,2-1
+2021-05-16,10:00 PM,37,Athletic Club,Real Madrid,Bilbao,San Mamés Barria,Played,0-1
+2021-05-16,10:00 PM,37,Valencia,Eibar,Valencia,Estadio de Mestalla,Played,4-1
+2021-05-16,10:00 PM,37,Villarreal,Sevilla,Villarreal,Estadio de la Cerámica,Played,4-0
+2021-05-16,10:00 PM,37,Alaves,Granada CF,Vitoria-Gasteiz,Estadio de Mendizorroza,Played,4-2
+2021-05-16,10:00 PM,37,Real Betis,Huesca,Sevilla,Estadio Benito Villamarín,Played,1-0
+2021-05-16,10:00 PM,37,Getafe,Levante,Getafe,Coliseum Alfonso Pérez,Played,2-1
+2021-05-16,10:00 PM,37,Real Sociedad,Valladolid,Donostia-San Sebastián,Reale Arena,Played,4-1
+2021-05-16,10:00 PM,37,Cadiz,Elche,Cádiz,Estadio Ramón de Carranza,Played,1-3
+2021-05-22,12:30 AM,38,Levante,Cadiz,Valencia,Estadio Ciudad de Valencia,Played,2-2
+2021-05-22,9:30 PM,38,Celta Vigo,Real Betis,Vigo,Abanca-Balaídos,Played,2-3
+2021-05-22,9:30 PM,38,Real Madrid,Villarreal,Madrid,Estadio Alfredo Di Stéfano,Played,2-1
+2021-05-22,9:30 PM,38,Eibar,Barcelona,Eibar,Estadio Municipal de Ipurúa,Played,0-1
+2021-05-22,9:30 PM,38,Valladolid,Atletico Madrid,Valladolid,Estadio Municipal José Zorrilla,Played,1-2
+2021-05-22,9:30 PM,38,Huesca,Valencia,Huesca,Estadio El Alcoraz,Played,0-0
+2021-05-22,9:30 PM,38,Osasuna,Real Sociedad,Iruñea,Estadio El Sadar,Played,0-1
+2021-05-22,9:30 PM,38,Elche,Athletic Club,Elche,Estadio Manuel Martínez Valero,Played,2-0
+2021-05-23,10:00 PM,38,Granada CF,Getafe,Granada,Estadio Nuevo Los Cármenes,Played,0-0
+2021-05-24,12:30 AM,38,Sevilla,Alaves,Sevilla,Estadio Ramón Sánchez Pizjuán,Played,1-0

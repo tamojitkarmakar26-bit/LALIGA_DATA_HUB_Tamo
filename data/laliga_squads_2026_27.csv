@@ -1,0 +1,409 @@
+Player_ID,Team_ID,Team_Name,Coach_Name,Squad_Index,Jersey_Number,Role,Player_Name
+1,1,Alavés,Quique Sánchez Flores,5,5,Defender,Abdel Abqar
+2,1,Alavés,Quique Sánchez Flores,4,4,Defender,Aleksandar Sedlar
+3,1,Alavés,Quique Sánchez Flores,6,6,Midfielder,Ander Guevara
+4,1,Alavés,Quique Sánchez Flores,7,8,Midfielder,Antonio Blanco
+5,1,Alavés,Quique Sánchez Flores,1,1,Goalkeeper,Antonio Sivera
+6,1,Alavés,Quique Sánchez Flores,8,9,Attacker,Asier Villalibre
+7,1,Alavés,Quique Sánchez Flores,16,20,Attacker,Carlos Martín
+8,1,Alavés,Quique Sánchez Flores,18,23,Midfielder,Carlos Protesoni
+9,1,Alavés,Quique Sánchez Flores,11,12,Defender,Hugo Novoa
+10,1,Alavés,Quique Sánchez Flores,12,13,Goalkeeper,Jesús Owono
+11,1,Alavés,Quique Sánchez Flores,19,24,Midfielder,Joan Jordán
+12,1,Alavés,Quique Sánchez Flores,15,18,Midfielder,Jon Guridi
+13,1,Alavés,Quique Sánchez Flores,14,17,Attacker,Kike García
+14,1,Alavés,Quique Sánchez Flores,10,11,Attacker,Luka Romero
+15,1,Alavés,Quique Sánchez Flores,3,3,Defender,Manu Sánchez
+16,1,Alavés,Quique Sánchez Flores,13,14,Defender,Moussa Diarra
+17,1,Alavés,Quique Sánchez Flores,2,2,Defender,Nahuel Tenaglia
+18,1,Alavés,Quique Sánchez Flores,9,10,Attacker,Tomás Conechny
+19,1,Alavés,Quique Sánchez Flores,17,21,Attacker,Toni Martínez
+20,2,Athletic Club,Edin Terzić,4,4,Defender,Aitor Paredes
+21,2,Athletic Club,Edin Terzić,18,20,Midfielder,Alejandro Rego
+22,2,Athletic Club,Edin Terzić,14,14,Defender,Aymeric Laporte
+23,2,Athletic Club,Edin Terzić,22,24,Midfielder,Beñat Gerenabarrena
+24,2,Athletic Club,Edin Terzić,6,6,Midfielder,Beñat Prados
+25,2,Athletic Club,Edin Terzić,3,3,Defender,Dani Vivian
+26,2,Athletic Club,Edin Terzić,11,11,Attacker,Gorka Guruzeta
+27,2,Athletic Club,Edin Terzić,2,2,Defender,Hugo Rincón
+28,2,Athletic Club,Edin Terzić,9,9,Attacker,Iñaki Williams
+29,2,Athletic Club,Edin Terzić,15,16,Midfielder,Iñigo Ruiz De Galarreta
+30,2,Athletic Club,Edin Terzić,12,12,Defender,Jesus Areso
+31,2,Athletic Club,Edin Terzić,25,31,Defender,Johaneko Louis-Jean
+32,2,Athletic Club,Edin Terzić,13,13,Goalkeeper,Julen Agirrezabala
+33,2,Athletic Club,Edin Terzić,19,21,Attacker,Maroan Sannadi
+34,2,Athletic Club,Edin Terzić,17,18,Midfielder,Mikel Jauregizar
+35,2,Athletic Club,Edin Terzić,20,22,Attacker,Nico Serrano
+36,2,Athletic Club,Edin Terzić,10,10,Attacker,Nico Williams
+37,2,Athletic Club,Edin Terzić,8,8,Midfielder,Oihan Sancet
+38,2,Athletic Club,Edin Terzić,24,28,Midfielder,Peio Canales
+39,2,Athletic Club,Edin Terzić,21,23,Attacker,Robert Navarro
+40,2,Athletic Club,Edin Terzić,1,1,Goalkeeper,Unai Simón
+41,2,Athletic Club,Edin Terzić,5,5,Defender,Yeray Álvarez
+42,2,Athletic Club,Edin Terzić,16,17,Defender,Yuri Berchiche
+43,2,Athletic Club,Edin Terzić,7,7,Attacker,Álex Berenguer
+44,2,Athletic Club,Edin Terzić,23,25,Attacker,Álvaro Djaló
+45,3,Atlético de Madrid,Diego Simeone,10,11,Attacker,Ademola Lookman
+46,3,Atlético de Madrid,Diego Simeone,20,22,Defender,Alejandro Grimaldo
+47,3,Atlético de Madrid,Diego Simeone,9,10,Attacker,Alex Baena
+48,3,Atlético de Madrid,Diego Simeone,8,9,Attacker,Alexander Sørloth
+49,3,Atlético de Madrid,Diego Simeone,14,16,Attacker,Arnau Ortiz
+50,3,Atlético de Madrid,Diego Simeone,19,21,Defender,Cristian Romero
+51,3,Atlético de Madrid,Diego Simeone,24,30,Defender,Daniel Martinez Moreno
+52,3,Atlético de Madrid,Diego Simeone,15,17,Defender,Dávid Hancko
+53,3,Atlético de Madrid,Diego Simeone,18,20,Attacker,Giuliano Simeone
+54,3,Atlético de Madrid,Diego Simeone,11,13,Goalkeeper,Jan Oblak
+55,3,Atlético de Madrid,Diego Simeone,4,5,Midfielder,Johnny Cardoso
+56,3,Atlético de Madrid,Diego Simeone,13,15,Attacker,Jonathan David
+57,3,Atlético de Madrid,Diego Simeone,1,1,Goalkeeper,Juan Musso
+58,3,Atlético de Madrid,Diego Simeone,17,19,Attacker,Julián Álvarez
+59,3,Atlético de Madrid,Diego Simeone,5,6,Midfielder,Koke
+60,3,Atlético de Madrid,Diego Simeone,6,7,Midfielder,Lee Kang-In
+61,3,Atlético de Madrid,Diego Simeone,16,18,Defender,Marc Pubill
+62,3,Atlético de Madrid,Diego Simeone,12,14,Defender,Marcos Llorente
+63,3,Atlético de Madrid,Diego Simeone,21,23,Midfielder,Morten Hjulmand
+64,3,Atlético de Madrid,Diego Simeone,2,3,Midfielder,Obed Vargas
+65,3,Atlético de Madrid,Diego Simeone,7,8,Midfielder,Pablo Barrios
+66,3,Atlético de Madrid,Diego Simeone,22,24,Defender,Robin Le Normand
+67,3,Atlético de Madrid,Diego Simeone,3,4,Midfielder,Rodrigo Mendoza
+68,3,Atlético de Madrid,Diego Simeone,23,25,Goalkeeper,Salvi Esquivel
+69,4,Celta,Claudio Giráldez,9,11,Attacker,Borja Iglesias
+70,4,Celta,Claudio Giráldez,2,2,Defender,Carl Starfelt
+71,4,Celta,Claudio Giráldez,6,8,Midfielder,Fran Beltrán
+72,4,Celta,Claudio Giráldez,16,19,Midfielder,Hugo Sotelo
+73,4,Celta,Claudio Giráldez,11,14,Midfielder,Hugo Álvarez
+74,4,Celta,Claudio Giráldez,8,10,Attacker,Iago Aspas
+75,4,Celta,Claudio Giráldez,5,6,Midfielder,Ilaix Moriba
+76,4,Celta,Claudio Giráldez,10,13,Goalkeeper,Iván Villar
+77,4,Celta,Claudio Giráldez,13,16,Defender,Jailson
+78,4,Celta,Claudio Giráldez,14,17,Attacker,Jonathan Bamba
+79,4,Celta,Claudio Giráldez,12,15,Defender,Joseph Aidoo
+80,4,Celta,Claudio Giráldez,15,18,Midfielder,Luca de la Torre
+81,4,Celta,Claudio Giráldez,18,22,Attacker,Pablo Durán
+82,4,Celta,Claudio Giráldez,4,5,Defender,Sergio Carreira
+83,4,Celta,Claudio Giráldez,7,9,Attacker,Tasos Douvikas
+84,4,Celta,Claudio Giráldez,1,1,Goalkeeper,Vicente Guaita
+85,4,Celta,Claudio Giráldez,17,20,Attacker,Williot Swedberg
+86,4,Celta,Claudio Giráldez,3,3,Defender,Óscar Mingueza
+87,5,Deportivo A Coruña,Antonio Hidalgo,15,20,Midfielder,Charlie Patiño
+88,5,Deportivo A Coruña,Antonio Hidalgo,16,22,Attacker,Cristian Herrera
+89,5,Deportivo A Coruña,Antonio Hidalgo,5,5,Defender,Dani Barcia
+90,5,Deportivo A Coruña,Antonio Hidalgo,7,7,Attacker,David Mella
+91,5,Deportivo A Coruña,Antonio Hidalgo,8,8,Midfielder,Diego Villares
+92,5,Deportivo A Coruña,Antonio Hidalgo,1,1,Goalkeeper,Germán Parreño
+93,5,Deportivo A Coruña,Antonio Hidalgo,12,13,Goalkeeper,Helton Leite
+94,5,Deportivo A Coruña,Antonio Hidalgo,14,18,Attacker,Ivan Barbero
+95,5,Deportivo A Coruña,Antonio Hidalgo,13,14,Defender,Jose Angel Jurado
+96,5,Deportivo A Coruña,Antonio Hidalgo,9,9,Attacker,Lucas Pérez
+97,5,Deportivo A Coruña,Antonio Hidalgo,10,10,Midfielder,Mario Soriano
+98,5,Deportivo A Coruña,Antonio Hidalgo,6,6,Midfielder,Omenuke Mfulu
+99,5,Deportivo A Coruña,Antonio Hidalgo,4,4,Defender,Pablo Vázquez
+100,5,Deportivo A Coruña,Antonio Hidalgo,3,3,Defender,Sergio Escudero
+101,5,Deportivo A Coruña,Antonio Hidalgo,2,2,Defender,Ximo Navarro
+102,5,Deportivo A Coruña,Antonio Hidalgo,11,11,Attacker,Yeremay Hernández
+103,6,Elche CF,Martín Anselmi,15,19,Attacker,Agustín Álvarez
+104,6,Elche CF,Martín Anselmi,6,6,Midfielder,Aleix Febas
+105,6,Elche CF,Martín Anselmi,4,4,Defender,Bambo Diaby
+106,6,Elche CF,Martín Anselmi,14,18,Midfielder,Federico Redondo Solari
+107,6,Elche CF,Martín Anselmi,8,9,Attacker,Ferran Jutglà
+108,6,Elche CF,Martín Anselmi,7,8,Midfielder,Gonzalo Villar
+109,6,Elche CF,Martín Anselmi,13,17,Attacker,Josan
+110,6,Elche CF,Martín Anselmi,2,2,Defender,Mario Gaspar
+111,6,Elche CF,Martín Anselmi,1,1,Goalkeeper,Matías Dituro
+112,6,Elche CF,Martín Anselmi,17,22,Attacker,Mourad
+113,6,Elche CF,Martín Anselmi,9,10,Midfielder,Nicolás Fernández
+114,6,Elche CF,Martín Anselmi,5,5,Defender,Pedro Bigas
+115,6,Elche CF,Martín Anselmi,12,14,Defender,Roy Revivo
+116,6,Elche CF,Martín Anselmi,16,20,Defender,Ruben Sanchez Saez
+117,6,Elche CF,Martín Anselmi,11,13,Goalkeeper,San Román
+118,6,Elche CF,Martín Anselmi,10,11,Attacker,Sory Kaba
+119,6,Elche CF,Martín Anselmi,3,3,Defender,Victor Chust
+120,7,RCD Espanyol de Barcelona,Manolo González,15,19,Attacker,Alejo Veliz
+121,7,RCD Espanyol de Barcelona,Manolo González,16,20,Midfielder,Alex Král
+122,7,RCD Espanyol de Barcelona,Manolo González,18,23,Attacker,Antoniu Roca
+123,7,RCD Espanyol de Barcelona,Manolo González,13,14,Defender,Brian Oliván
+124,7,RCD Espanyol de Barcelona,Manolo González,3,3,Defender,Carlos Romero
+125,7,RCD Espanyol de Barcelona,Manolo González,1,1,Goalkeeper,Fernando Pacheco
+126,7,RCD Espanyol de Barcelona,Manolo González,9,9,Attacker,Irvin Cardona
+127,7,RCD Espanyol de Barcelona,Manolo González,7,7,Attacker,Javi Puado
+128,7,RCD Espanyol de Barcelona,Manolo González,12,13,Goalkeeper,Joan Garcia
+129,7,RCD Espanyol de Barcelona,Manolo González,11,11,Attacker,Jofre Carreras
+130,7,RCD Espanyol de Barcelona,Manolo González,6,6,Midfielder,José Gragera
+131,7,RCD Espanyol de Barcelona,Manolo González,4,4,Defender,Leandro Cabrera
+132,7,RCD Espanyol de Barcelona,Manolo González,5,5,Defender,Marash Kumbulla
+133,7,RCD Espanyol de Barcelona,Manolo González,2,2,Defender,Omar El Hilali
+134,7,RCD Espanyol de Barcelona,Manolo González,10,10,Attacker,Pere Milla
+135,7,RCD Espanyol de Barcelona,Manolo González,8,8,Midfielder,Pol Lozano
+136,7,RCD Espanyol de Barcelona,Manolo González,17,22,Attacker,Walid Cheddira
+137,7,RCD Espanyol de Barcelona,Manolo González,14,18,Midfielder,Álvaro Aguado
+138,8,FC Barcelona,Hansi Flick,3,3,Defender,Alejandro Balde
+139,8,FC Barcelona,Hansi Flick,15,15,Defender,Andreas Christensen
+140,8,FC Barcelona,Hansi Flick,17,17,Attacker,Anthony Gordon
+141,8,FC Barcelona,Hansi Flick,4,4,Midfielder,Brian Farinas
+142,8,FC Barcelona,Hansi Flick,20,20,Midfielder,Dani Olmo
+143,8,FC Barcelona,Hansi Flick,25,25,Goalkeeper,Dominik Livaković
+144,8,FC Barcelona,Hansi Flick,24,24,Defender,Eric García
+145,8,FC Barcelona,Hansi Flick,7,7,Midfielder,Fermín López
+146,8,FC Barcelona,Hansi Flick,21,21,Midfielder,Frenkie de Jong
+147,8,FC Barcelona,Hansi Flick,9,9,Attacker,Gabriel Jesus
+148,8,FC Barcelona,Hansi Flick,6,6,Midfielder,Gavi
+149,8,FC Barcelona,Hansi Flick,18,18,Defender,Gerard Martín
+150,8,FC Barcelona,Hansi Flick,27,29,Attacker,Hamza Abdelkarim
+151,8,FC Barcelona,Hansi Flick,26,27,Attacker,Jesse Bisiwu
+152,8,FC Barcelona,Hansi Flick,1,1,Goalkeeper,Joan García
+153,8,FC Barcelona,Hansi Flick,2,2,Defender,João Cancelo
+154,8,FC Barcelona,Hansi Flick,23,23,Defender,Jules Koundé
+155,8,FC Barcelona,Hansi Flick,14,14,Attacker,Karim Adeyemi
+156,8,FC Barcelona,Hansi Flick,10,10,Attacker,Lamine Yamal
+157,8,FC Barcelona,Hansi Flick,22,22,Midfielder,Marc Bernal
+158,8,FC Barcelona,Hansi Flick,5,5,Defender,Pau Cubarsí
+159,8,FC Barcelona,Hansi Flick,8,8,Midfielder,Pedri
+160,8,FC Barcelona,Hansi Flick,11,11,Attacker,Raphinha
+161,8,FC Barcelona,Hansi Flick,16,16,Midfielder,Rodrigo Hernandez Cascante
+162,8,FC Barcelona,Hansi Flick,19,19,Attacker,Roony Bardghji
+163,8,FC Barcelona,Hansi Flick,13,13,Goalkeeper,Wojciech Szczęsny
+164,8,FC Barcelona,Hansi Flick,12,12,Defender,Xavi Espart
+165,9,Getafe CF,José Bordalás,14,18,Attacker,Bertuğ Yıldırım
+166,9,Getafe CF,José Bordalás,8,9,Attacker,Borja Mayoral
+167,9,Getafe CF,José Bordalás,9,10,Midfielder,Carles Aleñá
+168,9,Getafe CF,José Bordalás,13,17,Attacker,Carles Pérez
+169,9,Getafe CF,José Bordalás,1,1,Goalkeeper,David Soria
+170,9,Getafe CF,José Bordalás,12,15,Defender,Diego Rico
+171,9,Getafe CF,José Bordalás,2,2,Defender,Djené Dakonam
+172,9,Getafe CF,José Bordalás,5,5,Defender,Domingos Duarte
+173,9,Getafe CF,José Bordalás,11,13,Goalkeeper,Jiří Letáček
+174,9,Getafe CF,José Bordalás,17,21,Defender,Juan Iglesias
+175,9,Getafe CF,José Bordalás,7,8,Midfielder,Luis Milla
+176,9,Getafe CF,José Bordalás,6,6,Midfielder,Mauro Arambarri
+177,9,Getafe CF,José Bordalás,3,3,Defender,Nabil Aberdin
+178,9,Getafe CF,José Bordalás,4,4,Defender,Omar Alderete
+179,9,Getafe CF,José Bordalás,18,22,Attacker,Peter Federico
+180,9,Getafe CF,José Bordalás,16,20,Midfielder,Uche
+181,9,Getafe CF,José Bordalás,15,19,Midfielder,Yellu Santiago
+182,9,Getafe CF,José Bordalás,10,11,Attacker,Álex Sola
+183,10,Levante UD,Luís Castro,12,13,Goalkeeper,Alfonso Pastor
+184,10,Levante UD,Luís Castro,1,1,Goalkeeper,Andrés Fernández
+185,10,Levante UD,Luís Castro,2,2,Defender,Andrés García
+186,10,Levante UD,Luís Castro,7,7,Attacker,Brugui
+187,10,Levante UD,Luís Castro,14,20,Midfielder,Carlos Álvarez
+188,10,Levante UD,Luís Castro,3,3,Defender,Diego Pampín
+189,10,Levante UD,Luís Castro,13,19,Attacker,Fabrício
+190,10,Levante UD,Luís Castro,9,9,Attacker,Iván Romero
+191,10,Levante UD,Luís Castro,5,5,Defender,Jorge Cabello
+192,10,Levante UD,Luís Castro,11,11,Attacker,José Luis Morales
+193,10,Levante UD,Luís Castro,6,6,Midfielder,Oriol Rey
+194,10,Levante UD,Luís Castro,10,10,Midfielder,Pablo Martínez
+195,10,Levante UD,Luís Castro,15,21,Midfielder,Sergio Lozano
+196,10,Levante UD,Luís Castro,4,4,Defender,Unai Elgezabal
+197,10,Levante UD,Luís Castro,8,8,Midfielder,Vicente Iborra
+198,11,Málaga CF,Juan Francisco Funes,1,1,Goalkeeper,Alfonso Herrero
+199,11,Málaga CF,Juan Francisco Funes,15,19,Attacker,Antonio Cordero
+200,11,Málaga CF,Juan Francisco Funes,12,13,Goalkeeper,Carlos López
+201,11,Málaga CF,Juan Francisco Funes,13,14,Defender,Dani Sánchez
+202,11,Málaga CF,Juan Francisco Funes,7,7,Attacker,David Larrubia
+203,11,Málaga CF,Juan Francisco Funes,18,22,Attacker,Dioni
+204,11,Málaga CF,Juan Francisco Funes,5,5,Defender,Einar Galilea
+205,11,Málaga CF,Juan Francisco Funes,2,2,Defender,Jokin Gabilondo
+206,11,Málaga CF,Juan Francisco Funes,16,20,Attacker,Julen Lobete
+207,11,Málaga CF,Juan Francisco Funes,11,11,Attacker,Kevin Medina
+208,11,Málaga CF,Juan Francisco Funes,10,10,Midfielder,Luca Sangalli
+209,11,Málaga CF,Juan Francisco Funes,6,6,Midfielder,Luismi
+210,11,Málaga CF,Juan Francisco Funes,8,8,Midfielder,Manu Molina
+211,11,Málaga CF,Juan Francisco Funes,17,21,Midfielder,Ramón Enríquez
+212,11,Málaga CF,Juan Francisco Funes,9,9,Attacker,Roko Baturina
+213,11,Málaga CF,Juan Francisco Funes,14,17,Attacker,Sergio Castel
+214,11,Málaga CF,Juan Francisco Funes,3,3,Defender,Víctor García
+215,11,Málaga CF,Juan Francisco Funes,4,4,Defender,Álex Pastor
+216,12,Osasuna,Luis Miguel Ramis,9,10,Midfielder,Aimar Oroz
+217,12,Osasuna,Luis Miguel Ramis,11,13,Goalkeeper,Aitor Fernández
+218,12,Osasuna,Luis Miguel Ramis,5,5,Defender,Alejandro Catena
+219,12,Osasuna,Luis Miguel Ramis,8,9,Attacker,Ante Budimir
+220,12,Osasuna,Luis Miguel Ramis,10,11,Attacker,Bryan Zaragoza
+221,12,Osasuna,Luis Miguel Ramis,4,4,Defender,Enzo Boyomo
+222,12,Osasuna,Luis Miguel Ramis,19,22,Attacker,Iker Muñoz
+223,12,Osasuna,Luis Miguel Ramis,2,2,Defender,Jesús Areso
+224,12,Osasuna,Luis Miguel Ramis,7,7,Midfielder,Jon Moncayola
+225,12,Osasuna,Luis Miguel Ramis,15,17,Attacker,José Arnaiz
+226,12,Osasuna,Luis Miguel Ramis,3,3,Defender,Juan Cruz
+227,12,Osasuna,Luis Miguel Ramis,18,21,Attacker,Kike Barja
+228,12,Osasuna,Luis Miguel Ramis,6,6,Midfielder,Lucas Torró
+229,12,Osasuna,Luis Miguel Ramis,14,16,Midfielder,Moi Gómez
+230,12,Osasuna,Luis Miguel Ramis,16,19,Midfielder,Pablo Ibáñez
+231,12,Osasuna,Luis Miguel Ramis,17,20,Attacker,Raúl García de Haro
+232,12,Osasuna,Luis Miguel Ramis,12,14,Attacker,Rubén García
+233,12,Osasuna,Luis Miguel Ramis,13,15,Defender,Rubén Peña
+234,12,Osasuna,Luis Miguel Ramis,1,1,Goalkeeper,Sergio Herrera
+235,13,R. Racing Club,José Alberto López,10,11,Attacker,Andrés Martín
+236,13,R. Racing Club,José Alberto López,5,6,Midfielder,Aritz Aldasoro
+237,13,R. Racing Club,José Alberto López,6,7,Attacker,Iñigo Vicente
+238,13,R. Racing Club,José Alberto López,4,5,Defender,Javi Montero
+239,13,R. Racing Club,José Alberto López,16,22,Attacker,Jeremy Arévalo
+240,13,R. Racing Club,José Alberto López,1,1,Goalkeeper,Jokin Ezkieta
+241,13,R. Racing Club,José Alberto López,13,19,Attacker,Jon Karrikaburu
+242,13,R. Racing Club,José Alberto López,8,9,Attacker,Juan Carlos Arana
+243,13,R. Racing Club,José Alberto López,12,17,Attacker,Lago Junior
+244,13,R. Racing Club,José Alberto López,3,4,Defender,Manu Hernando
+245,13,R. Racing Club,José Alberto López,15,21,Midfielder,Marco Sangalli
+246,13,R. Racing Club,José Alberto López,11,13,Goalkeeper,Miquel Parera
+247,13,R. Racing Club,José Alberto López,9,10,Midfielder,Pablo Torre
+248,13,R. Racing Club,José Alberto López,2,3,Defender,Saúl García
+249,13,R. Racing Club,José Alberto López,14,20,Attacker,Suleiman Camara
+250,13,R. Racing Club,José Alberto López,7,8,Midfielder,Íñigo Sainz-Maza
+251,14,Rayo Vallecano,Beñat San José,5,5,Defender,Abdul Mumin
+252,14,Rayo Vallecano,Beñat San José,3,3,Defender,Alfonso Espino
+253,14,Rayo Vallecano,Beñat San José,2,2,Defender,Andrei Rațiu
+254,14,Rayo Vallecano,Beñat San José,14,15,Defender,Aridane Hernández
+255,14,Rayo Vallecano,Beñat San José,12,13,Goalkeeper,Augusto Batalla
+256,14,Rayo Vallecano,Beñat San José,1,1,Goalkeeper,Dani Cárdenas
+257,14,Rayo Vallecano,Beñat San José,4,4,Defender,Florian Lejeune
+258,14,Rayo Vallecano,Beñat San José,15,18,Midfielder,Gerard Gumbau
+259,14,Rayo Vallecano,Beñat San José,7,7,Attacker,Isi Palazón
+260,14,Rayo Vallecano,Beñat San José,17,20,Defender,Ivan Balliu
+261,14,Rayo Vallecano,Beñat San José,10,10,Midfielder,James Rodríguez
+262,14,Rayo Vallecano,Beñat San José,16,19,Attacker,Jorge de Frutos
+263,14,Rayo Vallecano,Beñat San José,8,8,Midfielder,Pathé Ciss
+264,14,Rayo Vallecano,Beñat San José,18,21,Attacker,Randy Nteka
+265,14,Rayo Vallecano,Beñat San José,19,22,Attacker,Raúl de Tomás
+266,14,Rayo Vallecano,Beñat San José,9,9,Attacker,Sergio Camello
+267,14,Rayo Vallecano,Beñat San José,13,14,Midfielder,Unai López
+268,14,Rayo Vallecano,Beñat San José,11,11,Attacker,Álvaro García
+269,14,Rayo Vallecano,Beñat San José,6,6,Midfielder,Óscar Valentín
+270,15,Real Betis,Manuel Pellegrini,12,13,Goalkeeper,Adrián
+271,15,Real Betis,Manuel Pellegrini,15,17,Attacker,Aitor Ruibal
+272,15,Real Betis,Manuel Pellegrini,17,19,Attacker,Chimy Ávila
+273,15,Real Betis,Manuel Pellegrini,10,11,Attacker,Cédric Bakambu
+274,15,Real Betis,Manuel Pellegrini,4,4,Defender,Diego Llorente
+275,15,Real Betis,Manuel Pellegrini,9,10,Attacker,Ez Abde
+276,15,Real Betis,Manuel Pellegrini,7,8,Midfielder,Giovani Lo Celso
+277,15,Real Betis,Manuel Pellegrini,2,2,Defender,Héctor Bellerín
+278,15,Real Betis,Manuel Pellegrini,20,22,Midfielder,Isco
+280,15,Real Betis,Manuel Pellegrini,5,5,Defender,Marc Bartra
+281,15,Real Betis,Manuel Pellegrini,19,21,Midfielder,Marc Roca
+282,15,Real Betis,Manuel Pellegrini,6,6,Defender,Natan
+283,15,Real Betis,Manuel Pellegrini,16,18,Midfielder,Pablo Fornals
+284,15,Real Betis,Manuel Pellegrini,11,12,Defender,Ricardo Rodríguez
+285,15,Real Betis,Manuel Pellegrini,3,3,Defender,Romain Perraud
+286,15,Real Betis,Manuel Pellegrini,1,1,Goalkeeper,Rui Silva
+287,15,Real Betis,Manuel Pellegrini,18,20,Midfielder,Sergi Altimira
+288,15,Real Betis,Manuel Pellegrini,8,9,Attacker,Vitor Roque
+289,15,Real Betis,Manuel Pellegrini,13,14,Midfielder,William Carvalho
+290,15,Real Betis,Manuel Pellegrini,21,23,Defender,Youssouf Sabaly
+291,16,Real Madrid,José Mourinho,13,13,Goalkeeper,Andriy Lunin
+292,16,Real Madrid,José Mourinho,22,22,Defender,Antonio Rüdiger
+293,16,Real Madrid,José Mourinho,15,15,Midfielder,Arda Güler
+294,16,Real Madrid,José Mourinho,14,14,Midfielder,Aurélien Tchouaméni
+295,16,Real Madrid,José Mourinho,20,20,Midfielder,Bernardo Silva
+296,16,Real Madrid,José Mourinho,21,21,Attacker,Brahim Díaz
+297,16,Real Madrid,José Mourinho,19,19,Attacker,Carlos Espí
+298,16,Real Madrid,José Mourinho,4,4,Defender,Dean Huijsen
+299,16,Real Madrid,José Mourinho,24,24,Defender,Denzel Dumfries
+300,16,Real Madrid,José Mourinho,6,6,Midfielder,Eduardo Camavinga
+301,16,Real Madrid,José Mourinho,9,9,Attacker,Endrick
+302,16,Real Madrid,José Mourinho,8,8,Midfielder,Federico Valverde
+303,16,Real Madrid,José Mourinho,23,23,Defender,Ferland Mendy
+304,16,Real Madrid,José Mourinho,16,16,Defender,Ibrahima Konaté
+305,16,Real Madrid,José Mourinho,5,5,Midfielder,Jude Bellingham
+306,16,Real Madrid,José Mourinho,10,10,Attacker,Kylian Mbappé
+307,16,Real Madrid,José Mourinho,17,17,Defender,Marc Cucurella
+308,16,Real Madrid,José Mourinho,2,2,Defender,Raúl Asencio
+309,16,Real Madrid,José Mourinho,11,11,Attacker,Rodrygo
+310,16,Real Madrid,José Mourinho,26,27,Midfielder,Thiago
+311,16,Real Madrid,José Mourinho,1,1,Goalkeeper,Thibaut Courtois
+312,16,Real Madrid,José Mourinho,12,12,Defender,Trent Alexander-Arnold
+313,16,Real Madrid,José Mourinho,7,7,Attacker,Vinícius Júnior
+314,16,Real Madrid,José Mourinho,25,25,Attacker,Yan Diomande
+315,16,Real Madrid,José Mourinho,18,18,Defender,Álvaro Carreras
+316,16,Real Madrid,José Mourinho,3,3,Defender,Éder Militão
+317,17,Real Sociedad,Pellegrino Matarazzo,3,3,Defender,Aihen Muñoz
+318,17,Real Sociedad,Pellegrino Matarazzo,7,7,Attacker,Ander Barrenetxea
+319,17,Real Sociedad,Pellegrino Matarazzo,6,6,Defender,Aritz Elustondo
+320,17,Real Sociedad,Pellegrino Matarazzo,8,8,Midfielder,Arsen Zakharyan
+321,17,Real Sociedad,Pellegrino Matarazzo,17,22,Midfielder,Beñat Turrientes
+322,17,Real Sociedad,Pellegrino Matarazzo,18,23,Midfielder,Brais Méndez
+323,17,Real Sociedad,Pellegrino Matarazzo,2,2,Defender,Hamari Traoré
+324,17,Real Sociedad,Pellegrino Matarazzo,5,5,Defender,Igor Zubeldia
+325,17,Real Sociedad,Pellegrino Matarazzo,13,14,Defender,Jon Aramburu
+326,17,Real Sociedad,Pellegrino Matarazzo,15,20,Defender,Jon Pacheco
+327,17,Real Sociedad,Pellegrino Matarazzo,16,21,Midfielder,Luka Sučić
+328,17,Real Sociedad,Pellegrino Matarazzo,4,4,Midfielder,Martín Zubimendi
+329,17,Real Sociedad,Pellegrino Matarazzo,10,10,Attacker,Mikel Oyarzabal
+330,17,Real Sociedad,Pellegrino Matarazzo,19,25,Attacker,Orri Óskarsson
+331,17,Real Sociedad,Pellegrino Matarazzo,14,19,Attacker,Sheraldo Becker
+332,17,Real Sociedad,Pellegrino Matarazzo,11,11,Attacker,Takefusa Kubo
+334,17,Real Sociedad,Pellegrino Matarazzo,12,13,Goalkeeper,Unai Marrero
+335,17,Real Sociedad,Pellegrino Matarazzo,1,1,Goalkeeper,Álex Remiro
+336,18,Sevilla FC,Luis García Plaza,3,3,Defender,Adrià Pedrosa
+337,18,Sevilla FC,Luis García Plaza,15,18,Midfielder,Albert Sambi Lokonga
+338,18,Sevilla FC,Luis García Plaza,18,21,Attacker,Chidera Ejuke
+339,18,Sevilla FC,Luis García Plaza,17,20,Midfielder,Djibril Sow
+340,18,Sevilla FC,Luis García Plaza,11,11,Attacker,Dodi Lukebakio
+341,18,Sevilla FC,Luis García Plaza,16,19,Defender,Gabriel Suazo
+342,18,Sevilla FC,Luis García Plaza,10,10,Attacker,Isaac Romero
+343,18,Sevilla FC,Luis García Plaza,2,2,Defender,José Ángel Carmona
+344,18,Sevilla FC,Luis García Plaza,9,9,Attacker,Kelechi Iheanacho
+345,18,Sevilla FC,Luis García Plaza,4,4,Defender,Loïc Badé
+346,18,Sevilla FC,Luis García Plaza,19,22,Midfielder,Lucien Agoumé
+347,18,Sevilla FC,Luis García Plaza,20,23,Defender,Marcão
+348,18,Sevilla FC,Luis García Plaza,6,6,Midfielder,Nemanja Gudelj
+349,18,Sevilla FC,Luis García Plaza,14,17,Attacker,Peque
+350,18,Sevilla FC,Luis García Plaza,8,8,Midfielder,Saúl Ñíguez
+351,18,Sevilla FC,Luis García Plaza,7,7,Attacker,Suso
+352,18,Sevilla FC,Luis García Plaza,5,5,Defender,Tanguy Nianzou
+353,18,Sevilla FC,Luis García Plaza,13,14,Defender,Valentín Barco
+354,18,Sevilla FC,Luis García Plaza,12,13,Goalkeeper,Álvaro Fernández
+355,18,Sevilla FC,Luis García Plaza,1,1,Goalkeeper,Ørjan Nyland
+356,19,Valencia CF,Carlos Corberán,31,33,Midfielder,Aaron Mayol
+357,19,Valencia CF,Carlos Corberán,33,37,Attacker,Aimar Blazquez
+358,19,Valencia CF,Carlos Corberán,28,29,Defender,Alejandro Panach
+359,19,Valencia CF,Carlos Corberán,16,15,Midfielder,Aliou Dieng
+360,19,Valencia CF,Carlos Corberán,10,10,Midfielder,André Almeida
+361,19,Valencia CF,Carlos Corberán,22,22,Defender,Arnau Martínez
+362,19,Valencia CF,Carlos Corberán,7,7,Attacker,Arnaut Danjuma
+363,19,Valencia CF,Carlos Corberán,14,13,Goalkeeper,Cristian Rivero
+364,19,Valencia CF,Carlos Corberán,5,5,Defender,César Tárrega
+365,19,Valencia CF,Carlos Corberán,19,19,Attacker,Dani Raba
+366,19,Valencia CF,Carlos Corberán,27,27,Attacker,David Otorbi
+367,19,Valencia CF,Carlos Corberán,17,16,Attacker,Diego López
+368,19,Valencia CF,Carlos Corberán,20,20,Defender,Dimitri Foulquier
+369,19,Valencia CF,Carlos Corberán,23,23,Midfielder,Filip Ugrinic
+370,19,Valencia CF,Carlos Corberán,2,2,Midfielder,Guido Rodríguez
+371,19,Valencia CF,Carlos Corberán,11,10,Midfielder,Harvey Elliott
+372,19,Valencia CF,Carlos Corberán,9,9,Attacker,Hugo Duro
+373,19,Valencia CF,Carlos Corberán,32,36,Defender,Iker Córdoba
+374,19,Valencia CF,Carlos Corberán,34,38,Midfielder,Jaume Dura
+375,19,Valencia CF,Carlos Corberán,8,8,Midfielder,Javi Guerra
+376,19,Valencia CF,Carlos Corberán,21,21,Defender,Jesús Vázquez
+377,19,Valencia CF,Carlos Corberán,3,3,Defender,José Copete
+378,19,Valencia CF,Carlos Corberán,15,14,Defender,José Gayà
+379,19,Valencia CF,Carlos Corberán,13,12,Defender,Justin De Haas
+380,19,Valencia CF,Carlos Corberán,25,25,Goalkeeper,Kayne Van Oevelen
+381,19,Valencia CF,Carlos Corberán,29,29,Midfielder,Lucas Núñez
+382,19,Valencia CF,Carlos Corberán,12,11,Midfielder,Luis Rioja
+383,19,Valencia CF,Carlos Corberán,36,41,Defender,Marcos Navarro
+384,19,Valencia CF,Carlos Corberán,4,4,Defender,Mouctar Diakhaby
+385,19,Valencia CF,Carlos Corberán,24,24,Defender,Pablo Maffeo
+386,19,Valencia CF,Carlos Corberán,18,18,Midfielder,Pepelu
+387,19,Valencia CF,Carlos Corberán,30,31,Defender,Rodrigo Gamon
+388,19,Valencia CF,Carlos Corberán,35,39,Midfielder,Ryūnosuke Satō
+389,19,Valencia CF,Carlos Corberán,26,26,Attacker,Sergi Canos
+390,19,Valencia CF,Carlos Corberán,1,1,Goalkeeper,Stole Dimitrievski
+391,19,Valencia CF,Carlos Corberán,6,6,Attacker,Umar Sadiq
+392,20,Villarreal CF,Iñigo Pérez,3,3,Defender,Alfonso Pedraza
+393,20,Villarreal CF,Iñigo Pérez,18,22,Attacker,Ayoze Pérez
+394,20,Villarreal CF,Iñigo Pérez,9,10,Midfielder,Dani Parejo
+395,20,Villarreal CF,Iñigo Pérez,1,1,Goalkeeper,Diego Conde
+396,20,Villarreal CF,Iñigo Pérez,11,12,Defender,Eric Bailly
+397,20,Villarreal CF,Iñigo Pérez,7,7,Attacker,Gerard Moreno
+398,20,Villarreal CF,Iñigo Pérez,10,11,Attacker,Ilias Akhomach
+399,20,Villarreal CF,Iñigo Pérez,2,2,Defender,Juan Foyth
+400,20,Villarreal CF,Iñigo Pérez,4,4,Defender,Logan Costa
+401,20,Villarreal CF,Iñigo Pérez,12,13,Goalkeeper,Luiz Júnior
+402,20,Villarreal CF,Iñigo Pérez,15,19,Attacker,Nicolas Pépé
+403,20,Villarreal CF,Iñigo Pérez,14,18,Midfielder,Pape Gueye
+404,20,Villarreal CF,Iñigo Pérez,16,20,Midfielder,Ramon Terrats
+405,20,Villarreal CF,Iñigo Pérez,6,6,Midfielder,Santi Comesaña
+406,20,Villarreal CF,Iñigo Pérez,19,23,Defender,Sergi Cardona
+407,20,Villarreal CF,Iñigo Pérez,8,9,Attacker,Thierno Barry
+408,20,Villarreal CF,Iñigo Pérez,5,5,Defender,Willy Kambwala
+409,20,Villarreal CF,Iñigo Pérez,17,21,Attacker,Yéremy Pino
+410,20,Villarreal CF,Iñigo Pérez,13,16,Midfielder,Álex Baena

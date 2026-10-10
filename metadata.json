@@ -1,0 +1,6 @@
+{
+  "name": "LaLiga Telemetry & EA SPORTS FC Data Hub",
+  "description": "Comprehensive, end-to-end LaLiga football data application with live match telemetry, standings, club dossiers, jersey archives, and historical chronicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

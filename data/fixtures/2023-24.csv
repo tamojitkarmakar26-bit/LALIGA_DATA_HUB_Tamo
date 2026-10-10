@@ -1,0 +1,381 @@
+date,time,matchday,home_team,away_team,city,stadium,status,result
+2023-08-11,11:00 PM,1,Almeria,Rayo Vallecano,Almería,Power Horse Stadium,Played,0-2
+2023-08-12,1:30 AM,1,Sevilla,Valencia,Seville,Ramón Sánchez-Pizjuán,Played,1-2
+2023-08-12,8:30 PM,1,Real Sociedad,Girona,San Sebastián,Reale Arena,Played,1-1
+2023-08-12,11:00 PM,1,Las Palmas,Mallorca,Las Palmas,Estadio Gran Canaria,Played,1-1
+2023-08-13,1:00 AM,1,Athletic Club,Real Madrid,Bilbao,San Mamés,Played,0-2
+2023-08-13,8:30 PM,1,Celta Vigo,Osasuna,Vigo,Abanca-Balaídos,Played,0-2
+2023-08-13,11:00 PM,1,Villarreal,Real Betis,Villarreal,Estadio de la Cerámica,Played,1-2
+2023-08-14,1:00 AM,1,Getafe,Barcelona,Getafe,Coliseum,Played,0-0
+2023-08-14,11:00 PM,1,Cadiz,Alaves,Cádiz,Estadio Nuevo Mirandilla,Played,1-0
+2023-08-15,1:00 AM,1,Atletico Madrid,Granada CF,Madrid,Cívitas Metropolitano,Played,3-1
+2023-08-18,11:00 PM,2,Mallorca,Villarreal,Palma,Estadi Mallorca Son Moix,Played,0-1
+2023-08-19,1:00 AM,2,Valencia,Las Palmas,Valencia,Estadio de Mestalla,Played,1-0
+2023-08-19,8:30 PM,2,Real Sociedad,Celta Vigo,San Sebastián,Reale Arena,Played,1-1
+2023-08-19,11:00 PM,2,Almeria,Real Madrid,Almería,Power Horse Stadium,Played,1-3
+2023-08-20,1:00 AM,2,Osasuna,Athletic Club,Pamplona,Estadio El Sadar,Played,0-2
+2023-08-20,10:30 PM,2,Girona,Getafe,Girona,Estadi Montilivi,Played,3-0
+2023-08-20,11:00 PM,2,Barcelona,Cadiz,Barcelona,Estadi Olímpic Lluís Companys,Played,2-0
+2023-08-21,1:00 AM,2,Real Betis,Atletico Madrid,Seville,Benito Villamarín,Played,0-0
+2023-08-21,10:30 PM,2,Alaves,Sevilla,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,4-3
+2023-08-22,1:00 AM,2,Granada CF,Rayo Vallecano,Granada,Nuevo Los Cármenes,Played,0-2
+2023-08-25,11:00 PM,3,Las Palmas,Real Sociedad,Las Palmas,Estadio Gran Canaria,Played,0-0
+2023-08-26,1:00 AM,3,Celta Vigo,Real Madrid,Vigo,Abanca-Balaídos,Played,0-1
+2023-08-26,10:30 PM,3,Cadiz,Almeria,Cádiz,Estadio Nuevo Mirandilla,Played,1-1
+2023-08-26,11:00 PM,3,Granada CF,Mallorca,Granada,Nuevo Los Cármenes,Played,3-2
+2023-08-27,1:00 AM,3,Sevilla,Girona,Seville,Ramón Sánchez-Pizjuán,Played,1-2
+2023-08-27,9:00 PM,3,Villarreal,Barcelona,Villarreal,Estadio de la Cerámica,Played,3-4
+2023-08-27,11:00 PM,3,Valencia,Osasuna,Valencia,Estadio de Mestalla,Played,1-2
+2023-08-28,1:00 AM,3,Athletic Club,Real Betis,Bilbao,San Mamés,Played,4-2
+2023-08-28,11:00 PM,3,Getafe,Alaves,Getafe,Coliseum,Played,1-0
+2023-08-29,1:00 AM,3,Rayo Vallecano,Atletico Madrid,Madrid,Campo de Fútbol de Vallecas,Played,0-7
+2023-09-01,11:00 PM,4,Cadiz,Villarreal,Cádiz,Estadio Nuevo Mirandilla,Played,3-1
+2023-09-02,1:30 AM,4,Almeria,Celta Vigo,Almería,Power Horse Stadium,Played,2-3
+2023-09-02,5:30 PM,4,Real Sociedad,Granada CF,San Sebastián,Reale Arena,Played,5-3
+2023-09-02,7:45 PM,4,Real Madrid,Getafe,Madrid,Santiago Bernabéu,Played,2-1
+2023-09-02,10:00 PM,4,Alaves,Valencia,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-0
+2023-09-03,12:30 AM,4,Real Betis,Rayo Vallecano,Seville,Benito Villamarín,Played,1-0
+2023-09-03,5:30 PM,4,Girona,Las Palmas,Girona,Estadi Montilivi,Played,1-0
+2023-09-03,7:45 PM,4,Mallorca,Athletic Club,Palma,Estadi Mallorca Son Moix,Played,0-0
+2023-09-04,12:30 AM,4,Osasuna,Barcelona,Pamplona,Estadio El Sadar,Played,1-2
+2023-09-16,12:30 AM,5,Rayo Vallecano,Alaves,Madrid,Campo de Fútbol de Vallecas,Played,2-0
+2023-09-16,5:30 PM,5,Athletic Club,Cadiz,Bilbao,San Mamés,Played,3-0
+2023-09-16,7:45 PM,5,Valencia,Atletico Madrid,Valencia,Estadio de Mestalla,Played,3-0
+2023-09-16,10:00 PM,5,Celta Vigo,Mallorca,Vigo,Abanca-Balaídos,Played,0-1
+2023-09-17,12:30 AM,5,Barcelona,Real Betis,Barcelona,Estadi Olímpic Lluís Companys,Played,5-0
+2023-09-17,5:30 PM,5,Getafe,Osasuna,Getafe,Coliseum,Played,3-2
+2023-09-17,7:45 PM,5,Villarreal,Almeria,Villarreal,Estadio de la Cerámica,Played,2-1
+2023-09-17,10:00 PM,5,Sevilla,Las Palmas,Seville,Ramón Sánchez-Pizjuán,Played,1-0
+2023-09-18,12:30 AM,5,Real Madrid,Real Sociedad,Madrid,Santiago Bernabéu,Played,2-1
+2023-09-19,12:30 AM,5,Granada CF,Girona,Granada,Nuevo Los Cármenes,Played,2-4
+2023-09-23,12:30 AM,6,Alaves,Athletic Club,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,0-2
+2023-09-23,5:30 PM,6,Girona,Mallorca,Girona,Estadi Montilivi,Played,5-3
+2023-09-23,7:45 PM,6,Osasuna,Sevilla,Pamplona,Estadio El Sadar,Played,0-0
+2023-09-23,10:00 PM,6,Barcelona,Celta Vigo,Barcelona,Estadi Olímpic Lluís Companys,Played,3-2
+2023-09-24,12:30 AM,6,Almeria,Valencia,Almería,Power Horse Stadium,Played,2-2
+2023-09-24,5:30 PM,6,Real Sociedad,Getafe,San Sebastián,Reale Arena,Played,4-3
+2023-09-24,7:45 PM,6,Rayo Vallecano,Villarreal,Madrid,Campo de Fútbol de Vallecas,Played,1-1
+2023-09-24,10:00 PM,6,Las Palmas,Granada CF,Las Palmas,Estadio Gran Canaria,Played,1-0
+2023-09-24,11:30 PM,6,Real Betis,Cadiz,Seville,Benito Villamarín,Played,1-1
+2023-09-25,12:30 AM,6,Atletico Madrid,Real Madrid,Madrid,Cívitas Metropolitano,Played,3-1
+2023-09-26,10:30 PM,7,Sevilla,Almeria,Seville,Ramón Sánchez-Pizjuán,Played,5-1
+2023-09-27,1:00 AM,7,Mallorca,Barcelona,Palma,Estadi Mallorca Son Moix,Played,2-2
+2023-09-27,10:30 PM,7,Athletic Club,Getafe,Bilbao,San Mamés,Played,2-2
+2023-09-27,11:30 PM,7,Villarreal,Girona,Villarreal,Estadio de la Cerámica,Played,1-2
+2023-09-27,11:30 PM,7,Real Madrid,Las Palmas,Madrid,Santiago Bernabéu,Played,2-0
+2023-09-28,1:00 AM,7,Cadiz,Rayo Vallecano,Cádiz,Estadio Nuevo Mirandilla,Played,0-0
+2023-09-27,11:30 PM,7,Valencia,Real Sociedad,Valencia,Estadio de Mestalla,Played,0-1
+2023-09-28,10:30 PM,7,Celta Vigo,Alaves,Vigo,Abanca-Balaídos,Played,1-1
+2023-09-28,11:30 PM,7,Granada CF,Real Betis,Granada,Nuevo Los Cármenes,Played,1-1
+2023-09-29,1:00 AM,7,Osasuna,Atletico Madrid,Pamplona,Estadio El Sadar,Played,0-2
+2023-09-30,12:30 AM,8,Barcelona,Sevilla,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2023-09-30,5:30 PM,8,Getafe,Villarreal,Getafe,Coliseum,Played,0-0
+2023-09-30,7:45 PM,8,Rayo Vallecano,Mallorca,Madrid,Campo de Fútbol de Vallecas,Played,2-2
+2023-09-30,10:00 PM,8,Girona,Real Madrid,Girona,Estadi Montilivi,Played,0-3
+2023-10-01,12:30 AM,8,Real Sociedad,Athletic Club,San Sebastián,Reale Arena,Played,3-0
+2023-10-01,5:30 PM,8,Almeria,Granada CF,Almería,Power Horse Stadium,Played,3-3
+2023-10-01,7:45 PM,8,Alaves,Osasuna,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,0-2
+2023-10-02,12:30 AM,8,Atletico Madrid,Cadiz,Madrid,Cívitas Metropolitano,Played,3-2
+2023-10-01,11:30 PM,8,Real Betis,Valencia,Seville,Benito Villamarín,Played,3-0
+2023-10-03,12:30 AM,8,Las Palmas,Celta Vigo,Las Palmas,Estadio Gran Canaria,Played,2-1
+2023-10-07,12:30 AM,9,Athletic Club,Almeria,Bilbao,San Mamés,Played,3-0
+2023-10-07,5:30 PM,9,Cadiz,Girona,Cádiz,Estadio Nuevo Mirandilla,Played,0-1
+2023-10-07,7:45 PM,9,Real Madrid,Osasuna,Madrid,Santiago Bernabéu,Played,4-0
+2023-10-07,10:00 PM,9,Mallorca,Valencia,Palma,Estadi Mallorca Son Moix,Played,1-1
+2023-10-08,12:30 AM,9,Sevilla,Rayo Vallecano,Seville,Ramón Sánchez-Pizjuán,Played,2-2
+2023-10-08,5:30 PM,9,Villarreal,Las Palmas,Villarreal,Estadio de la Cerámica,Played,1-2
+2023-10-08,7:45 PM,9,Atletico Madrid,Real Sociedad,Madrid,Cívitas Metropolitano,Played,2-1
+2023-10-08,10:00 PM,9,Celta Vigo,Getafe,Vigo,Abanca-Balaídos,Played,2-2
+2023-10-08,11:30 PM,9,Alaves,Real Betis,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-1
+2023-10-09,12:30 AM,9,Granada CF,Barcelona,Granada,Nuevo Los Cármenes,Played,2-2
+2023-10-21,12:30 AM,10,Osasuna,Granada CF,Pamplona,Estadio El Sadar,Played,2-0
+2023-10-21,5:30 PM,10,Real Sociedad,Mallorca,San Sebastián,Reale Arena,Played,1-0
+2023-10-21,7:45 PM,10,Getafe,Real Betis,Getafe,Coliseum,Played,1-1
+2023-10-21,10:00 PM,10,Sevilla,Real Madrid,Seville,Ramón Sánchez-Pizjuán,Played,1-1
+2023-10-22,12:30 AM,10,Celta Vigo,Atletico Madrid,Vigo,Abanca-Balaídos,Played,0-3
+2023-10-22,5:30 PM,10,Las Palmas,Rayo Vallecano,Las Palmas,Estadio Gran Canaria,Played,0-1
+2023-10-22,7:45 PM,10,Girona,Almeria,Girona,Estadi Montilivi,Played,5-2
+2023-10-22,10:00 PM,10,Villarreal,Alaves,Villarreal,Estadio de la Cerámica,Played,1-1
+2023-10-23,12:30 AM,10,Barcelona,Athletic Club,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2023-10-24,12:30 AM,10,Valencia,Cadiz,Valencia,Estadio de Mestalla,Played,2-0
+2023-10-28,12:30 AM,11,Girona,Celta Vigo,Girona,Estadi Montilivi,Played,1-0
+2023-10-28,5:30 PM,11,Almeria,Las Palmas,Almería,Power Horse Stadium,Played,1-2
+2023-10-28,7:45 PM,11,Barcelona,Real Madrid,Barcelona,Estadi Olímpic Lluís Companys,Played,1-2
+2023-10-28,10:00 PM,11,Mallorca,Getafe,Palma,Estadi Mallorca Son Moix,Played,0-0
+2023-10-29,12:30 AM,11,Cadiz,Sevilla,Cádiz,Estadio Nuevo Mirandilla,Played,2-2
+2023-10-29,6:30 PM,11,Real Betis,Osasuna,Seville,Benito Villamarín,Played,2-1
+2023-10-29,8:45 PM,11,Rayo Vallecano,Real Sociedad,Madrid,Campo de Fútbol de Vallecas,Played,2-2
+2023-10-29,11:00 PM,11,Athletic Club,Valencia,Bilbao,San Mamés,Played,2-2
+2023-10-30,1:30 AM,11,Atletico Madrid,Alaves,Madrid,Cívitas Metropolitano,Played,2-1
+2023-10-31,1:30 AM,11,Granada CF,Villarreal,Granada,Nuevo Los Cármenes,Played,2-3
+2023-11-04,1:30 AM,12,Las Palmas,Atletico Madrid,Las Palmas,Estadio Gran Canaria,Played,2-1
+2023-11-04,6:30 PM,12,Osasuna,Girona,Pamplona,Estadio El Sadar,Played,2-4
+2023-11-04,8:45 PM,12,Real Betis,Mallorca,Seville,Benito Villamarín,Played,2-0
+2023-11-04,11:00 PM,12,Celta Vigo,Sevilla,Vigo,Abanca-Balaídos,Played,1-1
+2023-11-05,1:30 AM,12,Real Sociedad,Barcelona,San Sebastián,Reale Arena,Played,0-1
+2023-11-05,6:30 PM,12,Alaves,Almeria,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-0
+2023-11-05,8:45 PM,12,Valencia,Granada CF,Valencia,Estadio de Mestalla,Played,1-0
+2023-11-05,11:00 PM,12,Villarreal,Athletic Club,Villarreal,Estadio de la Cerámica,Played,2-3
+2023-11-06,1:30 AM,12,Real Madrid,Rayo Vallecano,Madrid,Santiago Bernabéu,Played,0-0
+2023-11-07,1:30 AM,12,Getafe,Cadiz,Getafe,Coliseum,Played,1-0
+2023-11-11,1:30 AM,13,Athletic Club,Celta Vigo,Bilbao,San Mamés,Played,4-3
+2023-11-11,6:30 PM,13,Rayo Vallecano,Girona,Madrid,Campo de Fútbol de Vallecas,Played,1-2
+2023-11-11,8:45 PM,13,Almeria,Real Sociedad,Almería,Power Horse Stadium,Played,1-3
+2023-11-11,11:00 PM,13,Osasuna,Las Palmas,Pamplona,Estadio El Sadar,Played,1-1
+2023-11-12,12:30 AM,13,Granada CF,Getafe,Granada,Nuevo Los Cármenes,Played,1-1
+2023-11-12,1:30 AM,13,Real Madrid,Valencia,Madrid,Santiago Bernabéu,Played,5-1
+2023-11-12,8:45 PM,13,Barcelona,Alaves,Barcelona,Estadi Olímpic Lluís Companys,Played,2-1
+2023-11-12,11:00 PM,13,Sevilla,Real Betis,Seville,Ramón Sánchez-Pizjuán,Played,1-1
+2023-11-13,1:30 AM,13,Atletico Madrid,Villarreal,Madrid,Cívitas Metropolitano,Played,3-1
+2023-11-25,1:30 AM,14,Alaves,Granada CF,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,3-1
+2023-11-25,6:30 PM,14,Rayo Vallecano,Barcelona,Madrid,Campo de Fútbol de Vallecas,Played,1-1
+2023-11-25,8:45 PM,14,Valencia,Celta Vigo,Valencia,Estadio de Mestalla,Played,0-0
+2023-11-25,11:00 PM,14,Getafe,Almeria,Getafe,Coliseum,Played,2-1
+2023-11-26,1:30 AM,14,Atletico Madrid,Mallorca,Madrid,Cívitas Metropolitano,Played,1-0
+2023-11-26,6:30 PM,14,Villarreal,Osasuna,Villarreal,Estadio de la Cerámica,Played,3-1
+2023-11-26,8:45 PM,14,Real Sociedad,Sevilla,San Sebastián,Reale Arena,Played,2-1
+2023-11-26,11:00 PM,14,Cadiz,Real Madrid,Cádiz,Estadio Nuevo Mirandilla,Played,0-3
+2023-11-27,1:30 AM,14,Real Betis,Las Palmas,Seville,Benito Villamarín,Played,1-0
+2023-11-28,1:30 AM,14,Girona,Athletic Club,Girona,Estadi Montilivi,Played,1-1
+2023-11-30,1:30 AM,13,Mallorca,Cadiz,Palma,Estadi Mallorca Son Moix,Played,1-1
+2023-12-02,1:30 AM,15,Las Palmas,Getafe,Las Palmas,Estadio Gran Canaria,Played,2-0
+2023-12-02,6:30 PM,15,Girona,Valencia,Girona,Estadi Montilivi,Played,2-1
+2023-12-02,8:45 PM,15,Athletic Club,Rayo Vallecano,Bilbao,San Mamés,Played,4-0
+2023-12-02,11:00 PM,15,Real Madrid,Granada CF,Madrid,Santiago Bernabéu,Played,2-0
+2023-12-03,1:30 AM,15,Osasuna,Real Sociedad,Pamplona,Estadio El Sadar,Played,1-1
+2023-12-03,6:30 PM,15,Mallorca,Alaves,Palma,Estadi Mallorca Son Moix,Played,0-0
+2023-12-03,8:45 PM,15,Almeria,Real Betis,Almería,Power Horse Stadium,Played,0-0
+2023-12-03,11:00 PM,15,Sevilla,Villarreal,Seville,Ramón Sánchez-Pizjuán,Played,1-1
+2023-12-04,1:30 AM,15,Barcelona,Atletico Madrid,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2023-12-05,1:30 AM,15,Celta Vigo,Cadiz,Vigo,Abanca-Balaídos,Played,1-1
+2023-12-09,1:30 AM,16,Getafe,Valencia,Getafe,Coliseum,Played,1-0
+2023-12-09,6:30 PM,16,Alaves,Las Palmas,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,0-1
+2023-12-09,8:45 PM,16,Real Betis,Real Madrid,Seville,Benito Villamarín,Played,1-1
+2023-12-09,11:00 PM,16,Villarreal,Real Sociedad,Villarreal,Estadio de la Cerámica,Played,0-3
+2023-12-10,1:30 AM,16,Mallorca,Sevilla,Palma,Estadi Mallorca Son Moix,Played,1-0
+2023-12-10,6:30 PM,16,Atletico Madrid,Almeria,Madrid,Cívitas Metropolitano,Played,2-1
+2023-12-10,11:00 PM,16,Cadiz,Osasuna,Cádiz,Estadio Nuevo Mirandilla,Played,1-1
+2023-12-11,1:30 AM,16,Barcelona,Girona,Barcelona,Estadi Olímpic Lluís Companys,Played,2-4
+2023-12-12,1:30 AM,16,Granada CF,Athletic Club,Granada,Nuevo Los Cármenes,Played,1-1
+2023-12-12,12:30 AM,16,Rayo Vallecano,Celta Vigo,Madrid,Campo de Fútbol de Vallecas,Played,0-0
+2023-12-16,1:30 AM,17,Osasuna,Rayo Vallecano,Pamplona,Estadio El Sadar,Played,1-0
+2023-12-16,6:30 PM,17,Celta Vigo,Granada CF,Vigo,Abanca-Balaídos,Played,1-0
+2023-12-16,8:45 PM,17,Athletic Club,Atletico Madrid,Bilbao,San Mamés,Played,2-0
+2023-12-16,11:00 PM,17,Sevilla,Getafe,Seville,Ramón Sánchez-Pizjuán,Played,0-3
+2023-12-17,1:30 AM,17,Valencia,Barcelona,Valencia,Estadio de Mestalla,Played,1-1
+2023-12-17,6:30 PM,17,Almeria,Mallorca,Almería,Power Horse Stadium,Played,0-0
+2023-12-17,8:45 PM,17,Real Sociedad,Real Betis,San Sebastián,Reale Arena,Played,0-0
+2023-12-17,11:00 PM,17,Las Palmas,Cadiz,Las Palmas,Estadio Gran Canaria,Played,1-1
+2023-12-18,1:30 AM,17,Real Madrid,Villarreal,Madrid,Santiago Bernabéu,Played,4-1
+2023-12-19,1:30 AM,17,Girona,Alaves,Girona,Estadi Montilivi,Played,3-0
+2023-12-19,11:30 PM,18,Rayo Vallecano,Valencia,Madrid,Campo de Fútbol de Vallecas,Played,0-1
+2023-12-20,2:00 AM,18,Atletico Madrid,Getafe,Madrid,Cívitas Metropolitano,Played,3-3
+2023-12-20,12:30 AM,18,Granada CF,Sevilla,Granada,Nuevo Los Cármenes,Played,0-3
+2023-12-20,11:30 PM,18,Barcelona,Almeria,Barcelona,Estadi Olímpic Lluís Companys,Played,3-2
+2023-12-21,2:00 AM,18,Athletic Club,Las Palmas,Bilbao,San Mamés,Played,1-0
+2023-12-21,12:30 AM,18,Villarreal,Celta Vigo,Villarreal,Estadio de la Cerámica,Played,3-2
+2023-12-21,11:30 PM,18,Real Betis,Girona,Seville,Benito Villamarín,Played,1-1
+2023-12-22,12:30 AM,18,Cadiz,Real Sociedad,Cádiz,Estadio Nuevo Mirandilla,Played,0-0
+2023-12-22,2:00 AM,18,Alaves,Real Madrid,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,0-1
+2023-12-22,12:30 AM,18,Mallorca,Osasuna,Palma,Estadi Mallorca Son Moix,Played,3-2
+2023-12-23,8:45 PM,4,Atletico Madrid,Sevilla,Madrid,Cívitas Metropolitano,Played,1-0
+2024-01-02,9:30 PM,19,Getafe,Rayo Vallecano,Getafe,Coliseum,Played,0-2
+2024-01-02,11:45 PM,19,Real Sociedad,Alaves,San Sebastián,Reale Arena,Played,1-1
+2024-01-03,2:00 AM,19,Valencia,Villarreal,Valencia,Estadio de Mestalla,Played,3-1
+2024-01-03,9:30 PM,19,Granada CF,Cadiz,Granada,Nuevo Los Cármenes,Played,2-0
+2024-01-03,11:45 PM,19,Celta Vigo,Real Betis,Vigo,Abanca-Balaídos,Played,2-1
+2024-01-04,12:30 AM,19,Real Madrid,Mallorca,Madrid,Santiago Bernabéu,Played,1-0
+2024-01-04,2:00 AM,19,Girona,Atletico Madrid,Girona,Estadi Montilivi,Played,4-3
+2024-01-04,9:30 PM,19,Osasuna,Almeria,Pamplona,Estadio El Sadar,Played,1-0
+2024-01-04,11:45 PM,19,Sevilla,Athletic Club,Seville,Ramón Sánchez-Pizjuán,Played,0-2
+2024-01-05,2:00 AM,19,Las Palmas,Barcelona,Las Palmas,Estadio Gran Canaria,Played,1-2
+2024-01-13,1:30 AM,20,Sevilla,Alaves,Seville,Ramón Sánchez-Pizjuán,Played,2-3
+2024-01-13,6:30 PM,20,Las Palmas,Villarreal,Las Palmas,Estadio Gran Canaria,Played,3-0
+2024-01-13,8:45 PM,20,Mallorca,Celta Vigo,Palma,Estadi Mallorca Son Moix,Played,1-1
+2024-01-13,11:00 PM,20,Athletic Club,Real Sociedad,Bilbao,San Mamés,Played,2-1
+2024-01-14,1:30 AM,20,Real Betis,Granada CF,Seville,Benito Villamarín,Played,1-0
+2024-01-14,6:30 PM,20,Almeria,Girona,Almería,Power Horse Stadium,Played,0-0
+2024-01-14,8:45 PM,20,Cadiz,Valencia,Cádiz,Estadio Nuevo Mirandilla,Played,1-4
+2024-01-20,1:30 AM,21,Alaves,Cadiz,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-0
+2024-01-20,6:30 PM,21,Rayo Vallecano,Las Palmas,Madrid,Campo de Fútbol de Vallecas,Played,0-2
+2024-01-20,8:45 PM,21,Villarreal,Mallorca,Villarreal,Estadio de la Cerámica,Played,1-1
+2024-01-20,11:00 PM,21,Valencia,Athletic Club,Valencia,Estadio de Mestalla,Played,1-0
+2024-01-21,1:30 AM,21,Celta Vigo,Real Sociedad,Vigo,Abanca-Balaídos,Played,0-1
+2024-01-21,6:30 PM,21,Osasuna,Getafe,Pamplona,Estadio El Sadar,Played,3-2
+2024-01-21,8:45 PM,21,Real Madrid,Almeria,Madrid,Santiago Bernabéu,Played,3-2
+2024-01-21,11:00 PM,21,Real Betis,Barcelona,Seville,Benito Villamarín,Played,2-4
+2024-01-22,1:30 AM,21,Girona,Sevilla,Girona,Estadi Montilivi,Played,5-1
+2024-01-23,1:30 AM,21,Granada CF,Atletico Madrid,Granada,Nuevo Los Cármenes,Played,0-1
+2024-01-27,1:30 AM,22,Almeria,Alaves,Almería,Power Horse Stadium,Played,0-3
+2024-01-27,6:30 PM,22,Real Sociedad,Rayo Vallecano,San Sebastián,Reale Arena,Played,0-0
+2024-01-27,8:45 PM,22,Las Palmas,Real Madrid,Las Palmas,Estadio Gran Canaria,Played,1-2
+2024-01-27,11:00 PM,22,Barcelona,Villarreal,Barcelona,Estadi Olímpic Lluís Companys,Played,3-5
+2024-01-28,1:30 AM,22,Mallorca,Real Betis,Palma,Estadi Mallorca Son Moix,Played,0-1
+2024-01-28,6:30 PM,22,Celta Vigo,Girona,Vigo,Abanca-Balaídos,Played,0-1
+2024-01-28,8:45 PM,22,Cadiz,Athletic Club,Cádiz,Estadio Nuevo Mirandilla,Played,0-0
+2024-01-28,11:00 PM,22,Sevilla,Osasuna,Seville,Ramón Sánchez-Pizjuán,Played,1-1
+2024-01-29,1:30 AM,22,Atletico Madrid,Valencia,Madrid,Cívitas Metropolitano,Played,2-0
+2024-01-30,1:30 AM,22,Getafe,Granada CF,Getafe,Coliseum,Played,2-0
+2024-01-31,11:30 PM,20,Barcelona,Osasuna,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2024-02-01,1:30 AM,20,Atletico Madrid,Rayo Vallecano,Madrid,Cívitas Metropolitano,Played,2-1
+2024-02-02,1:30 AM,20,Getafe,Real Madrid,Getafe,Coliseum,Played,0-2
+2024-02-03,1:30 AM,23,Athletic Club,Mallorca,Bilbao,San Mamés,Played,4-0
+2024-02-03,6:30 PM,23,Valencia,Almeria,Valencia,Estadio de Mestalla,Played,2-1
+2024-02-03,8:45 PM,23,Granada CF,Las Palmas,Granada,Nuevo Los Cármenes,Played,1-1
+2024-02-03,11:00 PM,23,Alaves,Barcelona,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-3
+2024-02-04,1:30 AM,23,Girona,Real Sociedad,Girona,Estadi Montilivi,Played,0-0
+2024-02-04,6:30 PM,23,Villarreal,Cadiz,Villarreal,Estadio de la Cerámica,Played,0-0
+2024-02-04,8:45 PM,23,Osasuna,Celta Vigo,Pamplona,Estadio El Sadar,Played,0-3
+2024-02-04,11:00 PM,23,Real Betis,Getafe,Seville,Benito Villamarín,Played,1-1
+2024-02-05,1:30 AM,23,Real Madrid,Atletico Madrid,Madrid,Santiago Bernabéu,Played,1-1
+2024-02-06,1:30 AM,23,Rayo Vallecano,Sevilla,Madrid,Campo de Fútbol de Vallecas,Played,1-2
+2024-02-10,1:30 AM,24,Cadiz,Real Betis,Cádiz,Estadio Nuevo Mirandilla,Played,0-2
+2024-02-10,6:30 PM,24,Alaves,Villarreal,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-1
+2024-02-10,8:45 PM,24,Real Sociedad,Osasuna,San Sebastián,Reale Arena,Played,0-1
+2024-02-10,11:00 PM,24,Real Madrid,Girona,Madrid,Santiago Bernabéu,Played,4-0
+2024-02-11,1:30 AM,24,Las Palmas,Valencia,Las Palmas,Estadio Gran Canaria,Played,2-0
+2024-02-11,6:30 PM,24,Getafe,Celta Vigo,Getafe,Coliseum,Played,3-2
+2024-02-11,8:45 PM,24,Mallorca,Rayo Vallecano,Palma,Estadi Mallorca Son Moix,Played,2-1
+2024-02-11,11:00 PM,24,Sevilla,Atletico Madrid,Seville,Ramón Sánchez-Pizjuán,Played,1-0
+2024-02-12,1:30 AM,24,Barcelona,Granada CF,Barcelona,Estadi Olímpic Lluís Companys,Played,3-3
+2024-02-13,1:30 AM,24,Almeria,Athletic Club,Almería,Power Horse Stadium,Played,0-0
+2024-02-17,1:30 AM,25,Villarreal,Getafe,Villarreal,Estadio de la Cerámica,Played,1-1
+2024-02-17,6:30 PM,25,Atletico Madrid,Las Palmas,Madrid,Cívitas Metropolitano,Played,5-0
+2024-02-17,8:45 PM,25,Osasuna,Cadiz,Pamplona,Estadio El Sadar,Played,2-0
+2024-02-17,11:00 PM,25,Celta Vigo,Barcelona,Vigo,Abanca-Balaídos,Played,1-2
+2024-02-18,1:30 AM,25,Valencia,Sevilla,Valencia,Estadio de Mestalla,Played,0-0
+2024-02-18,6:30 PM,25,Rayo Vallecano,Real Madrid,Madrid,Campo de Fútbol de Vallecas,Played,1-1
+2024-02-18,8:45 PM,25,Granada CF,Almeria,Granada,Nuevo Los Cármenes,Played,1-1
+2024-02-18,11:00 PM,25,Mallorca,Real Sociedad,Palma,Estadi Mallorca Son Moix,Played,1-2
+2024-02-19,1:30 AM,25,Real Betis,Alaves,Seville,Benito Villamarín,Played,0-0
+2024-02-20,1:30 AM,25,Athletic Club,Girona,Bilbao,San Mamés,Played,3-2
+2024-02-24,1:30 AM,26,Real Sociedad,Villarreal,San Sebastián,Reale Arena,Played,1-3
+2024-02-24,8:45 PM,26,Barcelona,Getafe,Barcelona,Estadi Olímpic Lluís Companys,Played,4-0
+2024-02-24,11:00 PM,26,Alaves,Mallorca,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-1
+2024-02-25,1:30 AM,26,Almeria,Atletico Madrid,Almería,Power Horse Stadium,Played,2-2
+2024-02-25,6:30 PM,26,Cadiz,Celta Vigo,Cádiz,Estadio Nuevo Mirandilla,Played,2-2
+2024-02-25,8:45 PM,26,Real Betis,Athletic Club,Seville,Benito Villamarín,Played,3-1
+2024-02-25,11:00 PM,26,Las Palmas,Osasuna,Las Palmas,Estadio Gran Canaria,Played,1-1
+2024-02-26,1:30 AM,26,Real Madrid,Sevilla,Madrid,Santiago Bernabéu,Played,1-0
+2024-02-27,1:30 AM,26,Girona,Rayo Vallecano,Girona,Estadi Montilivi,Played,3-0
+2024-03-02,1:30 AM,27,Celta Vigo,Almeria,Vigo,Abanca-Balaídos,Played,1-0
+2024-03-02,6:30 PM,27,Sevilla,Real Sociedad,Seville,Ramón Sánchez-Pizjuán,Played,3-2
+2024-03-02,8:45 PM,27,Rayo Vallecano,Cadiz,Madrid,Campo de Fútbol de Vallecas,Played,1-1
+2024-03-02,11:00 PM,27,Getafe,Las Palmas,Getafe,Coliseum,Played,3-3
+2024-03-03,1:30 AM,27,Valencia,Real Madrid,Valencia,Estadio de Mestalla,Played,2-2
+2024-03-03,6:30 PM,27,Villarreal,Granada CF,Villarreal,Estadio de la Cerámica,Played,5-1
+2024-03-03,8:45 PM,27,Atletico Madrid,Real Betis,Madrid,Cívitas Metropolitano,Played,2-1
+2024-03-03,11:00 PM,27,Mallorca,Girona,Palma,Estadi Mallorca Son Moix,Played,1-0
+2024-03-04,1:30 AM,27,Athletic Club,Barcelona,Bilbao,San Mamés,Played,0-0
+2024-03-05,1:30 AM,27,Osasuna,Alaves,Pamplona,Estadio El Sadar,Played,1-0
+2024-03-09,1:30 AM,28,Barcelona,Mallorca,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2024-03-09,6:30 PM,28,Valencia,Getafe,Valencia,Estadio de Mestalla,Played,1-0
+2024-03-09,8:45 PM,28,Cadiz,Atletico Madrid,Cádiz,Estadio Nuevo Mirandilla,Played,2-0
+2024-03-09,11:00 PM,28,Granada CF,Real Sociedad,Granada,Nuevo Los Cármenes,Played,2-3
+2024-03-10,1:30 AM,28,Girona,Osasuna,Girona,Estadi Montilivi,Played,2-0
+2024-03-10,6:30 PM,28,Alaves,Rayo Vallecano,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-0
+2024-03-10,8:45 PM,28,Las Palmas,Athletic Club,Las Palmas,Estadio Gran Canaria,Played,0-2
+2024-03-10,11:00 PM,28,Real Madrid,Celta Vigo,Madrid,Santiago Bernabéu,Played,4-0
+2024-03-11,1:30 AM,28,Real Betis,Villarreal,Seville,Benito Villamarín,Played,2-3
+2024-03-12,1:30 AM,28,Almeria,Sevilla,Almería,Power Horse Stadium,Played,2-2
+2024-03-16,1:30 AM,29,Real Sociedad,Cadiz,San Sebastián,Reale Arena,Played,2-0
+2024-03-16,6:30 PM,29,Mallorca,Granada CF,Palma,Estadi Mallorca Son Moix,Played,1-0
+2024-03-16,8:45 PM,29,Osasuna,Real Madrid,Pamplona,Estadio El Sadar,Played,2-4
+2024-03-16,11:00 PM,29,Getafe,Girona,Getafe,Coliseum,Played,1-0
+2024-03-17,1:30 AM,29,Athletic Club,Alaves,Bilbao,San Mamés,Played,2-0
+2024-03-17,6:30 PM,29,Sevilla,Celta Vigo,Seville,Ramón Sánchez-Pizjuán,Played,1-2
+2024-03-17,8:45 PM,29,Villarreal,Valencia,Villarreal,Estadio de la Cerámica,Played,1-0
+2024-03-18,12:30 AM,29,Las Palmas,Almeria,Las Palmas,Estadio Gran Canaria,Played,0-1
+2024-03-17,11:00 PM,29,Rayo Vallecano,Real Betis,Madrid,Campo de Fútbol de Vallecas,Played,2-0
+2024-03-18,1:30 AM,29,Atletico Madrid,Barcelona,Madrid,Cívitas Metropolitano,Played,0-3
+2024-03-30,12:30 AM,30,Cadiz,Granada CF,Cádiz,Estadio Nuevo Mirandilla,Played,1-0
+2024-03-30,5:30 PM,30,Getafe,Sevilla,Getafe,Coliseum,Played,0-1
+2024-03-30,7:45 PM,30,Almeria,Osasuna,Almería,Power Horse Stadium,Played,0-3
+2024-03-30,10:00 PM,30,Valencia,Mallorca,Valencia,Estadio de Mestalla,Played,0-0
+2024-03-31,12:30 AM,30,Barcelona,Las Palmas,Barcelona,Estadi Olímpic Lluís Companys,Played,1-0
+2024-03-31,5:30 PM,30,Celta Vigo,Rayo Vallecano,Vigo,Abanca-Balaídos,Played,0-0
+2024-03-31,7:45 PM,30,Girona,Real Betis,Girona,Estadi Montilivi,Played,3-2
+2024-03-31,10:00 PM,30,Alaves,Real Sociedad,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,0-1
+2024-04-01,12:30 AM,30,Real Madrid,Athletic Club,Madrid,Santiago Bernabéu,Played,2-0
+2024-04-02,12:30 AM,30,Villarreal,Atletico Madrid,Villarreal,Estadio de la Cerámica,Played,1-2
+2024-04-04,11:30 PM,26,Granada CF,Valencia,Granada,Nuevo Los Cármenes,Played,0-1
+2024-04-13,12:30 AM,31,Real Betis,Celta Vigo,Seville,Benito Villamarín,Played,2-1
+2024-04-13,5:30 PM,31,Atletico Madrid,Girona,Madrid,Cívitas Metropolitano,Played,3-1
+2024-04-13,7:45 PM,31,Rayo Vallecano,Getafe,Madrid,Campo de Fútbol de Vallecas,Played,0-0
+2024-04-13,10:00 PM,31,Mallorca,Real Madrid,Palma,Estadi Mallorca Son Moix,Played,0-1
+2024-04-14,12:30 AM,31,Cadiz,Barcelona,Cádiz,Estadio Nuevo Mirandilla,Played,0-1
+2024-04-14,5:30 PM,31,Las Palmas,Sevilla,Las Palmas,Estadio Gran Canaria,Played,0-2
+2024-04-14,7:45 PM,31,Granada CF,Alaves,Granada,Nuevo Los Cármenes,Played,2-0
+2024-04-14,10:00 PM,31,Athletic Club,Villarreal,Bilbao,San Mamés,Played,1-1
+2024-04-15,12:30 AM,31,Real Sociedad,Almeria,San Sebastián,Reale Arena,Played,2-2
+2024-04-16,12:30 AM,31,Osasuna,Valencia,Pamplona,Estadio El Sadar,Played,0-1
+2024-04-20,12:30 AM,32,Athletic Club,Granada CF,Bilbao,San Mamés,Played,1-1
+2024-04-20,5:30 PM,32,Celta Vigo,Las Palmas,Vigo,Abanca-Balaídos,Played,4-1
+2024-04-20,7:45 PM,32,Rayo Vallecano,Osasuna,Madrid,Campo de Fútbol de Vallecas,Played,2-1
+2024-04-20,10:00 PM,32,Valencia,Real Betis,Valencia,Estadio de Mestalla,Played,1-2
+2024-04-21,12:30 AM,32,Girona,Cadiz,Girona,Estadi Montilivi,Played,4-1
+2024-04-21,5:30 PM,32,Getafe,Real Sociedad,Getafe,Coliseum,Played,1-1
+2024-04-21,7:45 PM,32,Almeria,Villarreal,Almería,Power Horse Stadium,Played,1-2
+2024-04-21,10:00 PM,32,Alaves,Atletico Madrid,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,2-0
+2024-04-22,12:30 AM,32,Real Madrid,Barcelona,Madrid,Santiago Bernabéu,Played,3-2
+2024-04-23,12:30 AM,32,Sevilla,Mallorca,Seville,Ramón Sánchez-Pizjuán,Played,2-1
+2024-04-27,12:30 AM,33,Real Sociedad,Real Madrid,San Sebastián,Reale Arena,Played,0-1
+2024-04-27,5:30 PM,33,Las Palmas,Girona,Las Palmas,Estadio Gran Canaria,Played,0-2
+2024-04-27,7:45 PM,33,Almeria,Getafe,Almería,Power Horse Stadium,Played,1-3
+2024-04-27,10:00 PM,33,Alaves,Celta Vigo,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,3-0
+2024-04-28,12:30 AM,33,Atletico Madrid,Athletic Club,Madrid,Cívitas Metropolitano,Played,3-1
+2024-04-28,5:30 PM,33,Cadiz,Mallorca,Cádiz,Estadio Nuevo Mirandilla,Played,1-1
+2024-04-28,7:45 PM,33,Granada CF,Osasuna,Granada,Nuevo Los Cármenes,Played,3-0
+2024-04-28,10:00 PM,33,Villarreal,Rayo Vallecano,Villarreal,Estadio de la Cerámica,Played,3-0
+2024-04-29,12:30 AM,33,Real Betis,Sevilla,Seville,Benito Villamarín,Played,1-1
+2024-04-30,12:30 AM,33,Barcelona,Valencia,Barcelona,Estadi Olímpic Lluís Companys,Played,4-2
+2024-05-04,12:30 AM,34,Getafe,Athletic Club,Getafe,Coliseum,Played,0-2
+2024-05-04,5:30 PM,34,Real Sociedad,Las Palmas,San Sebastián,Reale Arena,Played,2-0
+2024-05-04,7:45 PM,34,Real Madrid,Cadiz,Madrid,Santiago Bernabéu,Played,3-0
+2024-05-04,10:00 PM,34,Girona,Barcelona,Girona,Estadi Montilivi,Played,4-2
+2024-05-05,12:30 AM,34,Mallorca,Atletico Madrid,Palma,Estadi Mallorca Son Moix,Played,0-1
+2024-05-05,5:30 PM,34,Osasuna,Real Betis,Pamplona,Estadio El Sadar,Played,0-2
+2024-05-05,7:45 PM,34,Celta Vigo,Villarreal,Vigo,Abanca-Balaídos,Played,3-2
+2024-05-05,10:00 PM,34,Valencia,Alaves,Valencia,Estadio de Mestalla,Played,0-1
+2024-05-06,12:30 AM,34,Sevilla,Granada CF,Seville,Ramón Sánchez-Pizjuán,Played,3-0
+2024-05-05,11:30 PM,34,Rayo Vallecano,Almeria,Madrid,Campo de Fútbol de Vallecas,Played,0-1
+2024-05-11,12:30 AM,35,Alaves,Girona,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,2-2
+2024-05-11,5:30 PM,35,Mallorca,Las Palmas,Palma,Estadi Mallorca Son Moix,Played,1-0
+2024-05-11,7:45 PM,35,Villarreal,Sevilla,Villarreal,Estadio de la Cerámica,Played,3-2
+2024-05-11,10:00 PM,35,Granada CF,Real Madrid,Granada,Nuevo Los Cármenes,Played,0-4
+2024-05-12,12:30 AM,35,Athletic Club,Osasuna,Bilbao,San Mamés,Played,2-2
+2024-05-12,5:30 PM,35,Cadiz,Getafe,Cádiz,Estadio Nuevo Mirandilla,Played,1-0
+2024-05-12,7:45 PM,35,Atletico Madrid,Celta Vigo,Madrid,Cívitas Metropolitano,Played,1-0
+2024-05-12,10:00 PM,35,Valencia,Rayo Vallecano,Valencia,Estadio de Mestalla,Played,0-0
+2024-05-13,12:30 AM,35,Real Betis,Almeria,Seville,Benito Villamarín,Played,3-2
+2024-05-14,12:30 AM,35,Barcelona,Real Sociedad,Barcelona,Estadi Olímpic Lluís Companys,Played,2-0
+2024-05-14,11:00 PM,36,Osasuna,Mallorca,Pamplona,Estadio El Sadar,Played,1-1
+2024-05-15,1:00 AM,36,Real Madrid,Alaves,Madrid,Santiago Bernabéu,Played,5-0
+2024-05-15,1:30 AM,36,Girona,Villarreal,Girona,Estadi Montilivi,Played,0-1
+2024-05-15,11:00 PM,36,Sevilla,Cadiz,Seville,Ramón Sánchez-Pizjuán,Played,0-1
+2024-05-15,11:30 PM,36,Rayo Vallecano,Granada CF,Madrid,Campo de Fútbol de Vallecas,Played,2-1
+2024-05-16,1:30 AM,36,Celta Vigo,Athletic Club,Vigo,Abanca-Balaídos,Played,2-1
+2024-05-15,11:30 PM,36,Getafe,Atletico Madrid,Getafe,Coliseum,Played,0-3
+2024-05-16,11:00 PM,36,Las Palmas,Real Betis,Las Palmas,Estadio Gran Canaria,Played,2-2
+2024-05-17,1:00 AM,36,Almeria,Barcelona,Almería,Power Horse Stadium,Played,0-2
+2024-05-17,1:30 AM,36,Real Sociedad,Valencia,San Sebastián,Reale Arena,Played,1-0
+2024-05-19,12:30 AM,37,Alaves,Getafe,Vitoria-Gasteiz,Estadio Mendizorrotza,Played,1-0
+2024-05-19,10:30 PM,37,Athletic Club,Sevilla,Bilbao,San Mamés,Played,2-0
+2024-05-19,11:30 PM,37,Atletico Madrid,Osasuna,Madrid,Cívitas Metropolitano,Played,1-4
+2024-05-19,11:30 PM,37,Real Betis,Real Sociedad,Seville,Benito Villamarín,Played,0-2
+2024-05-19,11:30 PM,37,Barcelona,Rayo Vallecano,Barcelona,Estadi Olímpic Lluís Companys,Played,3-0
+2024-05-19,11:30 PM,37,Cadiz,Las Palmas,Cádiz,Estadio Nuevo Mirandilla,Played,0-0
+2024-05-19,11:30 PM,37,Granada CF,Celta Vigo,Granada,Nuevo Los Cármenes,Played,1-2
+2024-05-19,11:30 PM,37,Valencia,Girona,Valencia,Estadio de Mestalla,Played,1-3
+2024-05-19,11:30 PM,37,Villarreal,Real Madrid,Villarreal,Estadio de la Cerámica,Played,4-4
+2024-05-19,11:30 PM,37,Mallorca,Almeria,Palma,Estadi Mallorca Son Moix,Played,2-2
+2024-05-25,12:30 AM,38,Girona,Granada CF,Girona,Estadi Montilivi,Played,7-0
+2024-05-25,5:30 PM,38,Osasuna,Villarreal,Pamplona,Estadio El Sadar,Played,1-1
+2024-05-25,7:45 PM,38,Real Sociedad,Atletico Madrid,San Sebastián,Reale Arena,Played,0-2
+2024-05-25,10:00 PM,38,Rayo Vallecano,Athletic Club,Madrid,Campo de Fútbol de Vallecas,Played,0-1
+2024-05-25,11:30 PM,38,Almeria,Cadiz,Almería,Power Horse Stadium,Played,6-1
+2024-05-26,12:30 AM,38,Real Madrid,Real Betis,Madrid,Santiago Bernabéu,Played,0-0
+2024-05-26,5:30 PM,38,Getafe,Mallorca,Getafe,Coliseum,Played,1-2
+2024-05-26,7:45 PM,38,Celta Vigo,Valencia,Vigo,Abanca-Balaídos,Played,2-2
+2024-05-26,11:30 PM,38,Las Palmas,Alaves,Las Palmas,Estadio Gran Canaria,Played,1-1
+2024-05-27,12:30 AM,38,Sevilla,Barcelona,Seville,Ramón Sánchez-Pizjuán,Played,1-2
